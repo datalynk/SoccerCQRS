@@ -1,0 +1,22 @@
+﻿Year: <select ng-model="params.year" ng-change="changeYear()" ng-options="year for year in years"></select>
+Team: <select ng-model="params.team" ng-options="key as key for (key, value) in teams"></select>
+<table>
+    <tr>
+        <th>Date</th>
+        <th>Home team</th>
+        <th>Score</th>
+        <th>Away team</th>
+        <th>Location</th>
+    </tr>
+    <tr ng-repeat="game in games">
+        <td ng-bind="game.Date"></td>
+        <td ng-bind="game.HomeTeam"></td>
+        <td>
+            <span ng-bind="game.HomeScore"></span>
+            -
+            <span ng-bind="game.AwayScore"></span>
+        </td>
+        <td ng-bind="game.AwayTeam"></td>
+        <td ng-bind="game.Location"></td>
+    </tr>
+</table>
