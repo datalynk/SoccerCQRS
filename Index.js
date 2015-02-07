@@ -9,7 +9,7 @@
                 templateUrl: 'pages/debug.html',
                 controller: 'DebugController'
             })
-            .when('/gamesperteam/:year?/:team?', {
+            .when('/gamesperteam', {
                 templateUrl: 'pages/gamesperteam.html',
                 controller: 'GamesperteamController'
             })
@@ -41,31 +41,23 @@
         }
     ])
     .controller('GamesperteamController', [
-        '$scope', 'eventService', '$routeParams',
-        function ($scope, eventService, $routeParams) {
-            $scope.params = $routeParams;
-            $scope.years = [];
-            for (var i = 92; i < 115; i++) {
-                $scope.years.push((1900 + i) + "-" + (1901 + i));
-            }
-            if (!$scope.params.year) $scope.params.year = $scope.years[0];
-
-            $scope.games = [];
-
-            $scope.teams = [];
-            function setTeams(result) {
-                $scope.teams = result.data;
-                if (!$scope.params.team) $scope.params.team = Object.keys($scope.teams)[0];
-            }
-            eventService.GetAllTeams($scope.params.year).then(setTeams);
+        '$scope', 'eventService', 'yearService',
+        function ($scope, eventService, yearService) {
+            $scope.years = yearService.Years;
+            $scope.year = $scope.years[0];
 
             function setGames(result) {
                 $scope.games = result.data;
+                $scope.team = result.data[0].HomeTeam;
             }
             $scope.changeYear = function () {
-                eventService.GetGamesPerTeam($scope.params.year, $scope.params.team).then(setGames);
+                eventService.GetGamesForYear($scope.year).then(setGames);
             }
-            $scope.changeYear($scope.params.year);
+            $scope.changeYear();
+
+            $scope.log = function(obj) {
+                console.log(obj);
+            };
         }
     ])
     .controller('HomeController', [
@@ -73,31 +65,51 @@
         }
     ])
     .controller('DebugController', [
-        function () {
+        '$scope', 'yearService',
+        function ($scope, yearService) {
+            $scope.years = yearService.Years;
+        }
+    ])
+    .directive('debugyear', [
+        'eventService', '$filter',
+        function (eventService, $filter) {
+            return {
+                transclude: true,
+                scope: {
+                    year: '='
+                },
+                templateUrl: 'templates/debugyear.html',
+                link: function (scope, element) {
+                    function setGames(result) {
+                        scope.allGames = result.data;
+                        scope.allGamesPerTeam = $filter('groupBy')(result.data, 'HomeTeam');
+                    }
+                    eventService.GetGamesForYear(scope.year).then(setGames);
+                }
+            }
         }
     ])
     .service('eventService', [
-        '$http', '$filter',
-        function ($http, $filter) {
-            function getGamesPerTeam(year, team) {
-                function filterByTeam(promise) {
-                    promise.data = $filter('filter')(promise.data, { $: team });
-                    return promise;
-                }
-                return $http.get('node/output/' + year + '.json').then(filterByTeam);
-            }
-
-            function getAllTeams(year) {
-                function filterHomeTeams(promise) {
-                    promise.data = $filter('groupBy')(promise.data, 'HomeTeam');
-                    return promise;
-                }
-                return $http.get('node/output/' + year + '.json').then(filterHomeTeams);
+        '$http',
+        function ($http) {
+            function getGamesForYear(year) {
+                return $http.get('node/output/' + year + '.json');
             }
 
             return {
-                GetGamesPerTeam: getGamesPerTeam,
-                GetAllTeams: getAllTeams
+                GetGamesForYear: getGamesForYear
+            }
+        }
+    ])
+    .service('yearService', [
+        function () {
+            var years = [];
+            for (var i = 92; i < 115; i++) {
+                years.push((1900 + i) + "-" + (1901 + i));
+            }
+
+            return {
+                Years: years
             }
         }
     ]);

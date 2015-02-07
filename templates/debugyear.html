@@ -1,0 +1,15 @@
+﻿Total number of games: <span ng-bind="allGames.length"></span>
+<table ng-init="totalGames = 0">
+    <tr>
+        <th>Team</th>
+        <th>#Games</th>
+    </tr>
+    <tr ng-repeat="(team, games) in allGamesPerTeam">
+        <td ng-bind="team"></td>
+        <td ng-bind="games.length" ng-init="$parent.totalGames = $parent.totalGames + games.length"></td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td ng-bind="totalGames"></td>
+    </tr>
+</table>
