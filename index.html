@@ -4,20 +4,19 @@
     <title>App</title>
 
     <!--<link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />-->
-    <script type="text/javascript" src="bower_components/angular/angular.js"></script>
-    <script type="text/javascript" src="bower_components/angular-route/angular-route.min.js"></script>
-    <script type="text/javascript" src="bower_components/angular-filter/dist/angular-filter.js"></script>
-    <script type="text/javascript" src="index.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.min.js"></script>
+    <script src="bower_components/angular-filter/dist/angular-filter.js"></script>
+    <script src="components/ng-order-object-by.js"></script>
+    <script src="index.js"></script>
 </head>
-    <body ng-app="soccerApp">
-        
-        <ul class="nav nav-tabs nav-justified" ng-controller="NavigationController">
-            <li ng-repeat="route in routes" ng-class="{active: $route.current.controller == route.controllerName}">
-                <a ng-href="{{route.route}}" ng-bind="route.name"></a>
-            </li>
-        </ul>
+<body ng-app="soccerApp" ng-controller="NavigationController">
 
-        <div ng-view></div>
+    <div ng-repeat="route in routes">
+        <a ng-href="#{{route.route}}" ng-bind="route.name"></a>
+    </div>
 
-    </body>
+    <div ng-view></div>
+
+</body>
 </html>

@@ -1,9 +1,13 @@
-﻿angular.module('soccerApp', ['angular.filter', 'ngRoute'])
+﻿angular.module('soccerApp', ['angular.filter', 'ngRoute', 'ngOrderObjectBy'])
     .config(function($routeProvider) {
         $routeProvider
             .when('/', {
                 templateUrl: 'pages/home.html',
                 controller: 'HomeController'
+            })
+            .when('/season', {
+                templateUrl: 'pages/season.html',
+                controller: 'SeasonController'
             })
             .when('/debug', {
                 templateUrl: 'pages/debug.html',
@@ -25,19 +29,91 @@
                 {
                     name: 'Home',
                     controllerName: 'HomeController',
-                    route: '#/'
+                    route: '/'
+                },
+                {
+                    name: 'Season',
+                    controllerName: 'SeasonController',
+                    route: '/season'
                 },
                 {
                     name: 'Games per team',
                     controllerName: 'GamesperteamController',
-                    route: '#/gamesperteam'
+                    route: '/gamesperteam'
                 },
                 {
                     name: 'Debug',
                     controllerName: 'DebugController',
-                    route: '#/debug'
+                    route: '/debug'
                 }
             ];
+        }
+    ])
+    .controller('SeasonController', [
+        '$scope', 'eventService', 'yearService',
+        function ($scope, eventService, yearService) {
+            $scope.years = yearService.Years;
+            $scope.year = $scope.years[0];
+
+            function setGames(result) {
+                $scope.games = result.data;
+                return result;
+            }
+            $scope.changeYear = function () {
+                eventService.GetGamesForYear($scope.year).then(setGames).then(calculateTable);
+            }
+            $scope.changeYear();
+
+            function calculateTable() {
+                $scope.teams = {};
+                angular.forEach($scope.games, function (game) {
+                    var homeTeam = $scope.teams[game.HomeTeam] ?
+                        $scope.teams[game.HomeTeam] :
+                        {
+                            Points: 0,
+                            Name: game.HomeTeam,
+                            Scored: 0,
+                            Conceded: 0,
+                            Wins: 0,
+                            Draws: 0,
+                            Losses: 0
+                        };
+                    var awayTeam = $scope.teams[game.AwayTeam] ?
+                        $scope.teams[game.AwayTeam] :
+                        {
+                            Points: 0,
+                            Name: game.AwayTeam,
+                            Scored: 0,
+                            Conceded: 0,
+                            Wins: 0,
+                            Draws: 0,
+                            Losses: 0
+                        };
+
+                    homeTeam.Scored += game.HomeScore;
+                    awayTeam.Scored += game.AwayScore;
+                    homeTeam.Conceded += game.AwayScore;
+                    awayTeam.Conceded += game.HomeScore;
+
+                    if (game.AwayScore < game.HomeScore) {
+                        homeTeam.Wins += 1;
+                        awayTeam.Losses += 1;
+                        homeTeam.Points += 3;
+                    } else if (game.AwayScore > game.HomeScore) {
+                        homeTeam.Losses += 1;
+                        awayTeam.Wins += 1;
+                        awayTeam.Points += 3;
+                    } else {
+                        homeTeam.Draws += 1;
+                        awayTeam.Draws += 1;
+                        homeTeam.Points += 1;
+                        awayTeam.Points += 1;
+                    }
+
+                    $scope.teams[game.HomeTeam] = homeTeam;
+                    $scope.teams[game.AwayTeam] = awayTeam;
+                });
+            }
         }
     ])
     .controller('GamesperteamController', [
@@ -46,12 +122,17 @@
             $scope.years = yearService.Years;
             $scope.year = $scope.years[0];
 
+            function setTeam(result) {
+                $scope.team = result.data[0].HomeTeam;
+                return result;
+            }
+
             function setGames(result) {
                 $scope.games = result.data;
-                $scope.team = result.data[0].HomeTeam;
+                return result;
             }
             $scope.changeYear = function () {
-                eventService.GetGamesForYear($scope.year).then(setGames);
+                eventService.GetGamesForYear($scope.year).then(setGames).then(setTeam);
             }
             $scope.changeYear();
 

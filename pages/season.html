@@ -1,0 +1,26 @@
+﻿Year: <select ng-model="year" ng-change="changeYear()" ng-options="year for year in years"></select>
+
+<table>
+    <tr>
+        <td>Pos</td>
+        <td>Name</td>
+        <td>W</td>
+        <td>D</td>
+        <td>L</td>
+        <td>GF</td>
+        <td>GA</td>
+        <td>GD</td>
+        <td>Pts</td>
+    </tr>
+    <tr ng-repeat="(index, team) in teams | orderObjectBy:'Points':'-'">
+        <td ng-bind="index + 1"></td>
+        <td ng-bind="team.Name"></td>
+        <td ng-bind="team.Wins"></td>
+        <td ng-bind="team.Draws"></td>
+        <td ng-bind="team.Losses"></td>
+        <td ng-bind="team.Scored"></td>
+        <td ng-bind="team.Conceded"></td>
+        <td ng-bind="team.Scored - team.Conceded"></td>
+        <td ng-bind="team.Points"></td>
+    </tr>
+</table>
