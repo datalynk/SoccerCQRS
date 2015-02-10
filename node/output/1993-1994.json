@@ -1,1 +1,3698 @@
-[{"Date":"Sunday 8 May 1994 ","HomeTeam":"Man Utd","AwayTeam":"Coventry","HomeScore":"0","AwayScore":"0","Location":"Old Trafford"},{"Date":"Saturday 7 May 1994 ","HomeTeam":"Aston Villa","AwayTeam":"Liverpool","HomeScore":"2","AwayScore":"1","Location":"Villa Park"},{"Date":"Saturday 7 May 1994 ","HomeTeam":"Chelsea","AwayTeam":"Sheffield Utd","HomeScore":"3","AwayScore":"2","Location":"Stamford Bridge"},{"Date":"Saturday 7 May 1994 ","HomeTeam":"Newcastle","AwayTeam":"Arsenal","HomeScore":"2","AwayScore":"0","Location":"St. James' Park"},{"Date":"Saturday 7 May 1994 ","HomeTeam":"Sheffield Wed","AwayTeam":"Man City","HomeScore":"1","AwayScore":"1","Location":"Hillsborough"},{"Date":"Saturday 7 May 1994 ","HomeTeam":"Spurs","AwayTeam":"QPR","HomeScore":"1","AwayScore":"2","Location":"White Hart Lane"},{"Date":"Thursday 5 May 1994 ","HomeTeam":"Oldham","AwayTeam":"Spurs","HomeScore":"0","AwayScore":"2","Location":"Boundary Park"},{"Date":"Wednesday 4 May 1994 ","HomeTeam":"Man Utd","AwayTeam":"Southampton","HomeScore":"2","AwayScore":"0","Location":"Old Trafford"},{"Date":"Tuesday 3 May 1994 ","HomeTeam":"Leeds","AwayTeam":"Sheffield Wed","HomeScore":"2","AwayScore":"2","Location":"Elland Road"},{"Date":"Tuesday 3 May 1994 ","HomeTeam":"QPR","AwayTeam":"West Ham","HomeScore":"0","AwayScore":"0","Location":"Loftus Road Stadium"},{"Date":"Monday 2 May 1994 ","HomeTeam":"Coventry","AwayTeam":"Blackburn","HomeScore":"2","AwayScore":"1","Location":"Highfield Road"},{"Date":"Sunday 1 May 1994 ","HomeTeam":"Ipswich","AwayTeam":"Man Utd","HomeScore":"1","AwayScore":"2","Location":"Portman Road"},{"Date":"Saturday 30 April 1994 ","HomeTeam":"Arsenal","AwayTeam":"West Ham","HomeScore":"0","AwayScore":"2","Location":"Highbury"},{"Date":"Saturday 30 April 1994 ","HomeTeam":"Liverpool","AwayTeam":"Norwich","HomeScore":"0","AwayScore":"1","Location":"Anfield"},{"Date":"Saturday 30 April 1994 ","HomeTeam":"Oldham","AwayTeam":"Sheffield Wed","HomeScore":"0","AwayScore":"0","Location":"Boundary Park"},{"Date":"Saturday 30 April 1994 ","HomeTeam":"Sheffield Utd","AwayTeam":"Newcastle","HomeScore":"2","AwayScore":"0","Location":"Bramall Lane"},{"Date":"Saturday 30 April 1994 ","HomeTeam":"Wimbledon","AwayTeam":"Spurs","HomeScore":"2","AwayScore":"1","Location":"Plough Lane"},{"Date":"Wednesday 27 April 1994 ","HomeTeam":"Chelsea","AwayTeam":"Swindon","HomeScore":"2","AwayScore":"0","Location":"Stamford Bridge"},{"Date":"Wednesday 27 April 1994 ","HomeTeam":"Newcastle","AwayTeam":"Aston Villa","HomeScore":"5","AwayScore":"1","Location":"St. James' Park"},{"Date":"Wednesday 27 April 1994 ","HomeTeam":"West Ham","AwayTeam":"Blackburn","HomeScore":"1","AwayScore":"2","Location":"Boleyn Ground"},{"Date":"Tuesday 26 April 1994 ","HomeTeam":"Wimbledon","AwayTeam":"Oldham","HomeScore":"3","AwayScore":"0","Location":"Plough Lane"},{"Date":"Sunday 24 April 1994 ","HomeTeam":"Blackburn","AwayTeam":"QPR","HomeScore":"1","AwayScore":"1","Location":"Ewood Park"},{"Date":"Saturday 23 April 1994 ","HomeTeam":"Man Utd","AwayTeam":"Man City","HomeScore":"2","AwayScore":"0","Location":"Old Trafford"},{"Date":"Saturday 23 April 1994 ","HomeTeam":"Chelsea","AwayTeam":"Leeds","HomeScore":"1","AwayScore":"1","Location":"Stamford Bridge"},{"Date":"Saturday 23 April 1994 ","HomeTeam":"Newcastle","AwayTeam":"Oldham","HomeScore":"3","AwayScore":"2","Location":"St. James' Park"},{"Date":"Saturday 23 April 1994 ","HomeTeam":"Sheffield Wed","AwayTeam":"Ipswich","HomeScore":"5","AwayScore":"0","Location":"Hillsborough"},{"Date":"Saturday 23 April 1994 ","HomeTeam":"Spurs","AwayTeam":"Southampton","HomeScore":"3","AwayScore":"0","Location":"White Hart Lane"},{"Date":"Tuesday 19 April 1994 ","HomeTeam":"Arsenal","AwayTeam":"Wimbledon","HomeScore":"1","AwayScore":"1","Location":"Highbury"},{"Date":"Sunday 17 April 1994 ","HomeTeam":"Leeds","AwayTeam":"Spurs","HomeScore":"2","AwayScore":"0","Location":"Elland Road"},{"Date":"Saturday 16 April 1994 ","HomeTeam":"Wimbledon","AwayTeam":"Man Utd","HomeScore":"1","AwayScore":"0","Location":"Plough Lane"},{"Date":"Saturday 16 April 1994 ","HomeTeam":"Coventry","AwayTeam":"Sheffield Wed","HomeScore":"1","AwayScore":"1","Location":"Highfield Road"},{"Date":"Saturday 16 April 1994 ","HomeTeam":"Liverpool","AwayTeam":"Newcastle","HomeScore":"0","AwayScore":"2","Location":"Anfield"},{"Date":"Saturday 16 April 1994 ","HomeTeam":"Oldham","AwayTeam":"West Ham","HomeScore":"1","AwayScore":"2","Location":"Boundary Park"},{"Date":"Saturday 16 April 1994 ","HomeTeam":"Sheffield Utd","AwayTeam":"Aston Villa","HomeScore":"1","AwayScore":"2","Location":"Bramall Lane"},{"Date":"Wednesday 13 April 1994 ","HomeTeam":"QPR","AwayTeam":"Chelsea","HomeScore":"1","AwayScore":"1","Location":"Loftus Road Stadium"},{"Date":"Monday 11 April 1994 ","HomeTeam":"Blackburn","AwayTeam":"Aston Villa","HomeScore":"1","AwayScore":"0","Location":"Ewood Park"},{"Date":"Saturday 9 April 1994 ","HomeTeam":"Coventry","AwayTeam":"Spurs","HomeScore":"1","AwayScore":"0","Location":"Highfield Road"},{"Date":"Saturday 9 April 1994 ","HomeTeam":"Norwich","AwayTeam":"Southampton","HomeScore":"4","AwayScore":"5","Location":"Carrow Road"},{"Date":"Saturday 9 April 1994 ","HomeTeam":"West Ham","AwayTeam":"Everton","HomeScore":"0","AwayScore":"1","Location":"Boleyn Ground"},{"Date":"Monday 4 April 1994 ","HomeTeam":"Swindon","AwayTeam":"Sheffield Wed","HomeScore":"0","AwayScore":"1","Location":"The County Ground"},{"Date":"Monday 4 April 1994 ","HomeTeam":"Everton","AwayTeam":"Blackburn","HomeScore":"0","AwayScore":"3","Location":"Goodison Park"},{"Date":"Monday 4 April 1994 ","HomeTeam":"Man Utd","AwayTeam":"Oldham","HomeScore":"3","AwayScore":"2","Location":"Old Trafford"},{"Date":"Monday 4 April 1994 ","HomeTeam":"QPR","AwayTeam":"Leeds","HomeScore":"0","AwayScore":"4","Location":"Loftus Road Stadium"},{"Date":"Monday 4 April 1994 ","HomeTeam":"Southampton","AwayTeam":"Man City","HomeScore":"0","AwayScore":"1","Location":"The Dell"},{"Date":"Monday 4 April 1994 ","HomeTeam":"Wimbledon","AwayTeam":"Liverpool","HomeScore":"1","AwayScore":"1","Location":"Plough Lane"},{"Date":"Saturday 2 April 1994 ","HomeTeam":"Blackburn","AwayTeam":"Man Utd","HomeScore":"2","AwayScore":"0","Location":"Ewood Park"},{"Date":"Saturday 2 April 1994 ","HomeTeam":"Chelsea","AwayTeam":"Southampton","HomeScore":"2","AwayScore":"0","Location":"Stamford Bridge"},{"Date":"Saturday 2 April 1994 ","HomeTeam":"Liverpool","AwayTeam":"Sheffield Utd","HomeScore":"1","AwayScore":"2","Location":"Anfield"},{"Date":"Saturday 2 April 1994 ","HomeTeam":"Norwich","AwayTeam":"Spurs","HomeScore":"1","AwayScore":"2","Location":"Carrow Road"},{"Date":"Saturday 2 April 1994 ","HomeTeam":"Sheffield Wed","AwayTeam":"Everton","HomeScore":"5","AwayScore":"1","Location":"Hillsborough"},{"Date":"Friday 1 April 1994 ","HomeTeam":"Leeds","AwayTeam":"Newcastle","HomeScore":"1","AwayScore":"1","Location":"Elland Road"},{"Date":"Wednesday 30 March 1994 ","HomeTeam":"Man Utd","AwayTeam":"Liverpool","HomeScore":"1","AwayScore":"0","Location":"Old Trafford"},{"Date":"Wednesday 30 March 1994 ","HomeTeam":"Sheffield Wed","AwayTeam":"Chelsea","HomeScore":"3","AwayScore":"1","Location":"Hillsborough"},{"Date":"Tuesday 29 March 1994 ","HomeTeam":"Wimbledon","AwayTeam":"Blackburn","HomeScore":"4","AwayScore":"1","Location":"Plough Lane"},{"Date":"Tuesday 29 March 1994 ","HomeTeam":"Newcastle","AwayTeam":"Norwich","HomeScore":"3","AwayScore":"0","Location":"St. James' Park"},{"Date":"Monday 28 March 1994 ","HomeTeam":"Sheffield Utd","AwayTeam":"West Ham","HomeScore":"3","AwayScore":"2","Location":"Bramall Lane"},{"Date":"Saturday 26 March 1994 ","HomeTeam":"Arsenal","AwayTeam":"Liverpool","HomeScore":"1","AwayScore":"0","Location":"Highbury"},{"Date":"Saturday 26 March 1994 ","HomeTeam":"Chelsea","AwayTeam":"West Ham","HomeScore":"2","AwayScore":"0","Location":"Stamford Bridge"},{"Date":"Saturday 26 March 1994 ","HomeTeam":"Everton","AwayTeam":"Spurs","HomeScore":"0","AwayScore":"1","Location":"Goodison Park"},{"Date":"Saturday 26 March 1994 ","HomeTeam":"Oldham","AwayTeam":"Man City","HomeScore":"0","AwayScore":"0","Location":"Boundary Park"},{"Date":"Saturday 26 March 1994 ","HomeTeam":"Wimbledon","AwayTeam":"Leeds","HomeScore":"1","AwayScore":"0","Location":"Plough Lane"},{"Date":"Wednesday 23 March 1994 ","HomeTeam":"Newcastle","AwayTeam":"Ipswich","HomeScore":"2","AwayScore":"0","Location":"St. James' Park"},{"Date":"Tuesday 22 March 1994 ","HomeTeam":"Arsenal","AwayTeam":"Man Utd","HomeScore":"2","AwayScore":"2","Location":"Highbury"},{"Date":"Monday 21 March 1994 ","HomeTeam":"Norwich","AwayTeam":"Everton","HomeScore":"3","AwayScore":"0","Location":"Carrow Road"},{"Date":"Sunday 20 March 1994 ","HomeTeam":"Sheffield Wed","AwayTeam":"Blackburn","HomeScore":"1","AwayScore":"2","Location":"Hillsborough"},{"Date":"Saturday 19 March 1994 ","HomeTeam":"Aston Villa","AwayTeam":"Oldham","HomeScore":"1","AwayScore":"2","Location":"Villa Park"},{"Date":"Saturday 19 March 1994 ","HomeTeam":"Liverpool","AwayTeam":"Chelsea","HomeScore":"2","AwayScore":"1","Location":"Anfield"},{"Date":"Saturday 19 March 1994 ","HomeTeam":"QPR","AwayTeam":"Wimbledon","HomeScore":"1","AwayScore":"0","Location":"Loftus Road Stadium"},{"Date":"Saturday 19 March 1994 ","HomeTeam":"Swindon","AwayTeam":"Man Utd","HomeScore":"2","AwayScore":"2","Location":"The County Ground"},{"Date":"Saturday 19 March 1994 ","HomeTeam":"West Ham","AwayTeam":"Newcastle","HomeScore":"2","AwayScore":"4","Location":"Boleyn Ground"},{"Date":"Wednesday 16 March 1994 ","HomeTeam":"Man Utd","AwayTeam":"Sheffield Wed","HomeScore":"5","AwayScore":"0","Location":"Old Trafford"},{"Date":"Wednesday 16 March 1994 ","HomeTeam":"Leeds","AwayTeam":"Aston Villa","HomeScore":"2","AwayScore":"0","Location":"Elland Road"},{"Date":"Sunday 13 March 1994 ","HomeTeam":"Liverpool","AwayTeam":"Everton","HomeScore":"2","AwayScore":"1","Location":"Anfield"},{"Date":"Saturday 12 March 1994 ","HomeTeam":"Aston Villa","AwayTeam":"Ipswich","HomeScore":"0","AwayScore":"1","Location":"Villa Park"},{"Date":"Saturday 12 March 1994 ","HomeTeam":"Newcastle","AwayTeam":"Swindon","HomeScore":"7","AwayScore":"1","Location":"St. James' Park"},{"Date":"Saturday 12 March 1994 ","HomeTeam":"Southampton","AwayTeam":"Sheffield Wed","HomeScore":"1","AwayScore":"1","Location":"The Dell"},{"Date":"Sunday 6 March 1994 ","HomeTeam":"Coventry","AwayTeam":"Aston Villa","HomeScore":"0","AwayScore":"1","Location":"Highfield Road"},{"Date":"Saturday 5 March 1994 ","HomeTeam":"Blackburn","AwayTeam":"Liverpool","HomeScore":"2","AwayScore":"0","Location":"Ewood Park"},{"Date":"Saturday 5 March 1994 ","HomeTeam":"Ipswich","AwayTeam":"Arsenal","HomeScore":"1","AwayScore":"5","Location":"Portman Road"},{"Date":"Saturday 5 March 1994 ","HomeTeam":"Man Utd","AwayTeam":"Chelsea","HomeScore":"0","AwayScore":"1","Location":"Old Trafford"},{"Date":"Saturday 5 March 1994 ","HomeTeam":"Sheffield Wed","AwayTeam":"Newcastle","HomeScore":"0","AwayScore":"1","Location":"Hillsborough"},{"Date":"Saturday 5 March 1994 ","HomeTeam":"Spurs","AwayTeam":"Sheffield Utd","HomeScore":"2","AwayScore":"2","Location":"White Hart Lane"},{"Date":"Wednesday 2 March 1994 ","HomeTeam":"Spurs","AwayTeam":"Aston Villa","HomeScore":"1","AwayScore":"1","Location":"White Hart Lane"},{"Date":"Monday 28 February 1994 ","HomeTeam":"Oldham","AwayTeam":"Leeds","HomeScore":"1","AwayScore":"1","Location":"Boundary Park"},{"Date":"Sunday 27 February 1994 ","HomeTeam":"Chelsea","AwayTeam":"Spurs","HomeScore":"4","AwayScore":"3","Location":"Stamford Bridge"},{"Date":"Saturday 26 February 1994 ","HomeTeam":"Arsenal","AwayTeam":"Blackburn","HomeScore":"1","AwayScore":"0","Location":"Highbury"},{"Date":"Saturday 26 February 1994 ","HomeTeam":"Man City","AwayTeam":"Swindon","HomeScore":"2","AwayScore":"1","Location":"Maine Road"},{"Date":"Saturday 26 February 1994 ","HomeTeam":"Southampton","AwayTeam":"Wimbledon","HomeScore":"1","AwayScore":"0","Location":"The Dell"},{"Date":"Wednesday 23 February 1994 ","HomeTeam":"Newcastle","AwayTeam":"Coventry","HomeScore":"4","AwayScore":"0","Location":"St. James' Park"},{"Date":"Tuesday 22 February 1994 ","HomeTeam":"Aston Villa","AwayTeam":"Man City","HomeScore":"0","AwayScore":"0","Location":"Villa Park"},{"Date":"Tuesday 22 February 1994 ","HomeTeam":"Norwich","AwayTeam":"Blackburn","HomeScore":"2","AwayScore":"2","Location":"Carrow Road"},{"Date":"Saturday 19 February 1994 ","HomeTeam":"Blackburn","AwayTeam":"Newcastle","HomeScore":"1","AwayScore":"0","Location":"Ewood Park"},{"Date":"Saturday 19 February 1994 ","HomeTeam":"Everton","AwayTeam":"Arsenal","HomeScore":"1","AwayScore":"1","Location":"Goodison Park"},{"Date":"Saturday 19 February 1994 ","HomeTeam":"Swindon","AwayTeam":"Norwich","HomeScore":"3","AwayScore":"3","Location":"The County Ground"},{"Date":"Monday 14 February 1994 ","HomeTeam":"Southampton","AwayTeam":"Liverpool","HomeScore":"4","AwayScore":"2","Location":"The Dell"},{"Date":"Sunday 13 February 1994 ","HomeTeam":"Norwich","AwayTeam":"Arsenal","HomeScore":"1","AwayScore":"1","Location":"Carrow Road"},{"Date":"Saturday 12 February 1994 ","HomeTeam":"Aston Villa","AwayTeam":"Swindon","HomeScore":"5","AwayScore":"0","Location":"Villa Park"},{"Date":"Saturday 12 February 1994 ","HomeTeam":"Man City","AwayTeam":"West Ham","HomeScore":"0","AwayScore":"0","Location":"Maine Road"},{"Date":"Saturday 12 February 1994 ","HomeTeam":"Sheffield Utd","AwayTeam":"Coventry","HomeScore":"0","AwayScore":"0","Location":"Bramall Lane"},{"Date":"Saturday 12 February 1994 ","HomeTeam":"Wimbledon","AwayTeam":"Newcastle","HomeScore":"4","AwayScore":"2","Location":"Plough Lane"},{"Date":"Sunday 6 February 1994 ","HomeTeam":"Aston Villa","AwayTeam":"Leeds","HomeScore":"1","AwayScore":"0","Location":"Villa Park"},{"Date":"Saturday 5 February 1994 ","HomeTeam":"Blackburn","AwayTeam":"Wimbledon","HomeScore":"3","AwayScore":"0","Location":"Ewood Park"},{"Date":"Saturday 5 February 1994 ","HomeTeam":"Man City","AwayTeam":"Ipswich","HomeScore":"2","AwayScore":"1","Location":"Maine Road"},{"Date":"Saturday 5 February 1994 ","HomeTeam":"Oldham","AwayTeam":"Southampton","HomeScore":"2","AwayScore":"1","Location":"Boundary Park"},{"Date":"Saturday 5 February 1994 ","HomeTeam":"Swindon","AwayTeam":"Coventry","HomeScore":"3","AwayScore":"1","Location":"The County Ground"},{"Date":"Wednesday 2 February 1994 ","HomeTeam":"Coventry","AwayTeam":"Ipswich","HomeScore":"1","AwayScore":"0","Location":"Highfield Road"},{"Date":"Monday 24 January 1994 ","HomeTeam":"West Ham","AwayTeam":"Norwich","HomeScore":"3","AwayScore":"3","Location":"Boleyn Ground"},{"Date":"Sunday 23 January 1994 ","HomeTeam":"Blackburn","AwayTeam":"Leeds","HomeScore":"2","AwayScore":"1","Location":"Ewood Park"},{"Date":"Saturday 22 January 1994 ","HomeTeam":"Arsenal","AwayTeam":"Oldham","HomeScore":"1","AwayScore":"1","Location":"Highbury"},{"Date":"Saturday 22 January 1994 ","HomeTeam":"Coventry","AwayTeam":"QPR","HomeScore":"0","AwayScore":"1","Location":"Highfield Road"},{"Date":"Saturday 22 January 1994 ","HomeTeam":"Liverpool","AwayTeam":"Man City","HomeScore":"2","AwayScore":"1","Location":"Anfield"},{"Date":"Saturday 22 January 1994 ","HomeTeam":"Newcastle","AwayTeam":"Southampton","HomeScore":"1","AwayScore":"2","Location":"St. James' Park"},{"Date":"Saturday 22 January 1994 ","HomeTeam":"Swindon","AwayTeam":"Spurs","HomeScore":"2","AwayScore":"1","Location":"The County Ground"},{"Date":"Sunday 16 January 1994 ","HomeTeam":"QPR","AwayTeam":"Newcastle","HomeScore":"1","AwayScore":"2","Location":"Loftus Road Stadium"},{"Date":"Saturday 15 January 1994 ","HomeTeam":"Aston Villa","AwayTeam":"West Ham","HomeScore":"3","AwayScore":"1","Location":"Villa Park"},{"Date":"Saturday 15 January 1994 ","HomeTeam":"Leeds","AwayTeam":"Ipswich","HomeScore":"0","AwayScore":"0","Location":"Elland Road"},{"Date":"Saturday 15 January 1994 ","HomeTeam":"Norwich","AwayTeam":"Chelsea","HomeScore":"1","AwayScore":"1","Location":"Carrow Road"},{"Date":"Saturday 15 January 1994 ","HomeTeam":"Sheffield Utd","AwayTeam":"Blackburn","HomeScore":"1","AwayScore":"2","Location":"Bramall Lane"},{"Date":"Saturday 15 January 1994 ","HomeTeam":"Spurs","AwayTeam":"Man Utd","HomeScore":"0","AwayScore":"1","Location":"White Hart Lane"},{"Date":"Tuesday 4 January 1994 ","HomeTeam":"Liverpool","AwayTeam":"Man Utd","HomeScore":"3","AwayScore":"3","Location":"Anfield"},{"Date":"Monday 3 January 1994 ","HomeTeam":"Coventry","AwayTeam":"Swindon","HomeScore":"1","AwayScore":"1","Location":"Highfield Road"},{"Date":"Monday 3 January 1994 ","HomeTeam":"Chelsea","AwayTeam":"Everton","HomeScore":"4","AwayScore":"2","Location":"Stamford Bridge"},{"Date":"Monday 3 January 1994 ","HomeTeam":"West Ham","AwayTeam":"Sheffield Utd","HomeScore":"0","AwayScore":"0","Location":"Boleyn Ground"},{"Date":"Saturday 1 January 1994 ","HomeTeam":"Aston Villa","AwayTeam":"Blackburn","HomeScore":"0","AwayScore":"1","Location":"Villa Park"},{"Date":"Saturday 1 January 1994 ","HomeTeam":"Ipswich","AwayTeam":"Liverpool","HomeScore":"1","AwayScore":"2","Location":"Portman Road"},{"Date":"Saturday 1 January 1994 ","HomeTeam":"QPR","AwayTeam":"Sheffield Wed","HomeScore":"1","AwayScore":"2","Location":"Loftus Road Stadium"},{"Date":"Saturday 1 January 1994 ","HomeTeam":"Southampton","AwayTeam":"Norwich","HomeScore":"0","AwayScore":"1","Location":"The Dell"},{"Date":"Saturday 1 January 1994 ","HomeTeam":"Spurs","AwayTeam":"Coventry","HomeScore":"1","AwayScore":"2","Location":"White Hart Lane"},{"Date":"Saturday 1 January 1994 ","HomeTeam":"Man Utd","AwayTeam":"Leeds","HomeScore":"0","AwayScore":"0","Location":"Old Trafford"},{"Date":"Wednesday 29 December 1993 ","HomeTeam":"Arsenal","AwayTeam":"Sheffield Utd","HomeScore":"3","AwayScore":"0","Location":"Highbury"},{"Date":"Wednesday 29 December 1993 ","HomeTeam":"Leeds","AwayTeam":"QPR","HomeScore":"1","AwayScore":"1","Location":"Elland Road"},{"Date":"Wednesday 29 December 1993 ","HomeTeam":"Sheffield Wed","AwayTeam":"Swindon","HomeScore":"3","AwayScore":"3","Location":"Hillsborough"},{"Date":"Tuesday 28 December 1993 ","HomeTeam":"Chelsea","AwayTeam":"Newcastle","HomeScore":"1","AwayScore":"0","Location":"Stamford Bridge"},{"Date":"Tuesday 28 December 1993 ","HomeTeam":"Man City","AwayTeam":"Southampton","HomeScore":"1","AwayScore":"1","Location":"Maine Road"},{"Date":"Monday 27 December 1993 ","HomeTeam":"Everton","AwayTeam":"Sheffield Wed","HomeScore":"0","AwayScore":"2","Location":"Goodison Park"},{"Date":"Monday 27 December 1993 ","HomeTeam":"QPR","AwayTeam":"Oldham","HomeScore":"2","AwayScore":"0","Location":"Loftus Road Stadium"},{"Date":"Monday 27 December 1993 ","HomeTeam":"Southampton","AwayTeam":"Chelsea","HomeScore":"3","AwayScore":"1","Location":"The Dell"},{"Date":"Sunday 26 December 1993 ","HomeTeam":"Man Utd","AwayTeam":"Blackburn","HomeScore":"1","AwayScore":"1","Location":"Old Trafford"},{"Date":"Sunday 26 December 1993 ","HomeTeam":"Sheffield Utd","AwayTeam":"Liverpool","HomeScore":"0","AwayScore":"0","Location":"Bramall Lane"},{"Date":"Wednesday 22 December 1993 ","HomeTeam":"Newcastle","AwayTeam":"Leeds","HomeScore":"1","AwayScore":"1","Location":"St. James' Park"},{"Date":"Sunday 19 December 1993 ","HomeTeam":"Man Utd","AwayTeam":"Aston Villa","HomeScore":"3","AwayScore":"1","Location":"Old Trafford"},{"Date":"Saturday 18 December 1993 ","HomeTeam":"Blackburn","AwayTeam":"Man City","HomeScore":"2","AwayScore":"0","Location":"Ewood Park"},{"Date":"Saturday 18 December 1993 ","HomeTeam":"Everton","AwayTeam":"Newcastle","HomeScore":"0","AwayScore":"2","Location":"Goodison Park"},{"Date":"Saturday 18 December 1993 ","HomeTeam":"Leeds","AwayTeam":"Arsenal","HomeScore":"2","AwayScore":"1","Location":"Elland Road"},{"Date":"Saturday 18 December 1993 ","HomeTeam":"Swindon","AwayTeam":"Southampton","HomeScore":"2","AwayScore":"1","Location":"The County Ground"},{"Date":"Saturday 18 December 1993 ","HomeTeam":"Wimbledon","AwayTeam":"Sheffield Utd","HomeScore":"2","AwayScore":"0","Location":"Plough Lane"},{"Date":"Monday 13 December 1993 ","HomeTeam":"Norwich","AwayTeam":"Leeds","HomeScore":"2","AwayScore":"1","Location":"Carrow Road"},{"Date":"Sunday 12 December 1993 ","HomeTeam":"Arsenal","AwayTeam":"Sheffield Wed","HomeScore":"1","AwayScore":"0","Location":"Highbury"},{"Date":"Saturday 11 December 1993 ","HomeTeam":"Aston Villa","AwayTeam":"Wimbledon","HomeScore":"0","AwayScore":"1","Location":"Villa Park"},{"Date":"Saturday 11 December 1993 ","HomeTeam":"Liverpool","AwayTeam":"Swindon","HomeScore":"2","AwayScore":"2","Location":"Anfield"},{"Date":"Saturday 11 December 1993 ","HomeTeam":"Newcastle","AwayTeam":"Man Utd","HomeScore":"1","AwayScore":"1","Location":"St. James' Park"},{"Date":"Saturday 11 December 1993 ","HomeTeam":"Sheffield Utd","AwayTeam":"Everton","HomeScore":"0","AwayScore":"0","Location":"Bramall Lane"},{"Date":"Saturday 11 December 1993 ","HomeTeam":"West Ham","AwayTeam":"Coventry","HomeScore":"3","AwayScore":"2","Location":"Boleyn Ground"},{"Date":"Wednesday 8 December 1993 ","HomeTeam":"Aston Villa","AwayTeam":"Sheffield Wed","HomeScore":"2","AwayScore":"2","Location":"Villa Park"},{"Date":"Wednesday 8 December 1993 ","HomeTeam":"Man City","AwayTeam":"Everton","HomeScore":"1","AwayScore":"0","Location":"Maine Road"},{"Date":"Wednesday 8 December 1993 ","HomeTeam":"Southampton","AwayTeam":"Ipswich","HomeScore":"0","AwayScore":"1","Location":"The Dell"},{"Date":"Tuesday 7 December 1993 ","HomeTeam":"Sheffield Utd","AwayTeam":"Man Utd","HomeScore":"0","AwayScore":"3","Location":"Bramall Lane"},{"Date":"Monday 6 December 1993 ","HomeTeam":"Arsenal","AwayTeam":"Spurs","HomeScore":"1","AwayScore":"1","Location":"Highbury"},{"Date":"Sunday 5 December 1993 ","HomeTeam":"Blackburn","AwayTeam":"Chelsea","HomeScore":"2","AwayScore":"0","Location":"Ewood Park"},{"Date":"Saturday 4 December 1993 ","HomeTeam":"Coventry","AwayTeam":"Arsenal","HomeScore":"1","AwayScore":"0","Location":"Highfield Road"},{"Date":"Saturday 4 December 1993 ","HomeTeam":"Ipswich","AwayTeam":"Oldham","HomeScore":"0","AwayScore":"0","Location":"Portman Road"},{"Date":"Saturday 4 December 1993 ","HomeTeam":"Man Utd","AwayTeam":"Norwich","HomeScore":"2","AwayScore":"2","Location":"Old Trafford"},{"Date":"Saturday 4 December 1993 ","HomeTeam":"Sheffield Wed","AwayTeam":"Liverpool","HomeScore":"3","AwayScore":"1","Location":"Hillsborough"},{"Date":"Saturday 4 December 1993 ","HomeTeam":"Spurs","AwayTeam":"Newcastle","HomeScore":"1","AwayScore":"2","Location":"White Hart Lane"},{"Date":"Monday 29 November 1993 ","HomeTeam":"Southampton","AwayTeam":"West Ham","HomeScore":"0","AwayScore":"2","Location":"The Dell"},{"Date":"Sunday 28 November 1993 ","HomeTeam":"Liverpool","AwayTeam":"Aston Villa","HomeScore":"2","AwayScore":"1","Location":"Anfield"},{"Date":"Saturday 27 November 1993 ","HomeTeam":"Arsenal","AwayTeam":"Newcastle","HomeScore":"2","AwayScore":"1","Location":"Highbury"},{"Date":"Saturday 27 November 1993 ","HomeTeam":"Ipswich","AwayTeam":"Blackburn","HomeScore":"1","AwayScore":"0","Location":"Portman Road"},{"Date":"Saturday 27 November 1993 ","HomeTeam":"Man City","AwayTeam":"Sheffield Wed","HomeScore":"1","AwayScore":"3","Location":"Maine Road"},{"Date":"Saturday 27 November 1993 ","HomeTeam":"QPR","AwayTeam":"Spurs","HomeScore":"1","AwayScore":"1","Location":"Loftus Road Stadium"},{"Date":"Saturday 27 November 1993 ","HomeTeam":"Wimbledon","AwayTeam":"Everton","HomeScore":"1","AwayScore":"1","Location":"Plough Lane"},{"Date":"Wednesday 24 November 1993 ","HomeTeam":"Man Utd","AwayTeam":"Ipswich","HomeScore":"0","AwayScore":"0","Location":"Old Trafford"},{"Date":"Wednesday 24 November 1993 ","HomeTeam":"Newcastle","AwayTeam":"Sheffield Utd","HomeScore":"4","AwayScore":"0","Location":"St. James' Park"},{"Date":"Wednesday 24 November 1993 ","HomeTeam":"Swindon","AwayTeam":"QPR","HomeScore":"1","AwayScore":"0","Location":"The County Ground"},{"Date":"Wednesday 24 November 1993 ","HomeTeam":"West Ham","AwayTeam":"Arsenal","HomeScore":"0","AwayScore":"0","Location":"Boleyn Ground"},{"Date":"Tuesday 23 November 1993 ","HomeTeam":"Blackburn","AwayTeam":"Coventry","HomeScore":"2","AwayScore":"1","Location":"Ewood Park"},{"Date":"Monday 22 November 1993 ","HomeTeam":"Chelsea","AwayTeam":"Man City","HomeScore":"0","AwayScore":"0","Location":"Stamford Bridge"},{"Date":"Sunday 21 November 1993 ","HomeTeam":"Newcastle","AwayTeam":"Liverpool","HomeScore":"3","AwayScore":"0","Location":"St. James' Park"},{"Date":"Saturday 20 November 1993 ","HomeTeam":"Aston Villa","AwayTeam":"Sheffield Utd","HomeScore":"1","AwayScore":"0","Location":"Villa Park"},{"Date":"Saturday 20 November 1993 ","HomeTeam":"Chelsea","AwayTeam":"Arsenal","HomeScore":"0","AwayScore":"2","Location":"Stamford Bridge"},{"Date":"Saturday 20 November 1993 ","HomeTeam":"Man Utd","AwayTeam":"Wimbledon","HomeScore":"3","AwayScore":"1","Location":"Old Trafford"},{"Date":"Saturday 20 November 1993 ","HomeTeam":"Sheffield Wed","AwayTeam":"Coventry","HomeScore":"0","AwayScore":"0","Location":"Hillsborough"},{"Date":"Saturday 20 November 1993 ","HomeTeam":"Spurs","AwayTeam":"Leeds","HomeScore":"1","AwayScore":"1","Location":"White Hart Lane"},{"Date":"Monday 8 November 1993 ","HomeTeam":"Oldham","AwayTeam":"Newcastle","HomeScore":"1","AwayScore":"3","Location":"Boundary Park"},{"Date":"Sunday 7 November 1993 ","HomeTeam":"Man City","AwayTeam":"Man Utd","HomeScore":"2","AwayScore":"3","Location":"Maine Road"},{"Date":"Saturday 6 November 1993 ","HomeTeam":"Arsenal","AwayTeam":"Aston Villa","HomeScore":"1","AwayScore":"2","Location":"Highbury"},{"Date":"Saturday 6 November 1993 ","HomeTeam":"Ipswich","AwayTeam":"Sheffield Wed","HomeScore":"1","AwayScore":"4","Location":"Portman Road"},{"Date":"Saturday 6 November 1993 ","HomeTeam":"Liverpool","AwayTeam":"West Ham","HomeScore":"2","AwayScore":"0","Location":"Anfield"},{"Date":"Saturday 6 November 1993 ","HomeTeam":"Sheffield Utd","AwayTeam":"Norwich","HomeScore":"1","AwayScore":"2","Location":"Bramall Lane"},{"Date":"Saturday 6 November 1993 ","HomeTeam":"Wimbledon","AwayTeam":"Swindon","HomeScore":"3","AwayScore":"0","Location":"Plough Lane"},{"Date":"Monday 1 November 1993 ","HomeTeam":"West Ham","AwayTeam":"Man City","HomeScore":"3","AwayScore":"1","Location":"Boleyn Ground"},{"Date":"Sunday 31 October 1993 ","HomeTeam":"Coventry","AwayTeam":"Sheffield Utd","HomeScore":"0","AwayScore":"0","Location":"Highfield Road"},{"Date":"Saturday 30 October 1993 ","HomeTeam":"Arsenal","AwayTeam":"Norwich","HomeScore":"0","AwayScore":"0","Location":"Highbury"},{"Date":"Saturday 30 October 1993 ","HomeTeam":"Chelsea","AwayTeam":"Oldham","HomeScore":"0","AwayScore":"1","Location":"Stamford Bridge"},{"Date":"Saturday 30 October 1993 ","HomeTeam":"Liverpool","AwayTeam":"Southampton","HomeScore":"4","AwayScore":"2","Location":"Anfield"},{"Date":"Saturday 30 October 1993 ","HomeTeam":"Newcastle","AwayTeam":"Wimbledon","HomeScore":"4","AwayScore":"0","Location":"St. James' Park"},{"Date":"Saturday 30 October 1993 ","HomeTeam":"Swindon","AwayTeam":"Aston Villa","HomeScore":"1","AwayScore":"2","Location":"The County Ground"},{"Date":"Monday 25 October 1993 ","HomeTeam":"Wimbledon","AwayTeam":"Ipswich","HomeScore":"0","AwayScore":"2","Location":"Plough Lane"},{"Date":"Sunday 24 October 1993 ","HomeTeam":"Southampton","AwayTeam":"Newcastle","HomeScore":"2","AwayScore":"1","Location":"The Dell"},{"Date":"Saturday 23 October 1993 ","HomeTeam":"Aston Villa","AwayTeam":"Chelsea","HomeScore":"1","AwayScore":"0","Location":"Villa Park"},{"Date":"Saturday 23 October 1993 ","HomeTeam":"Leeds","AwayTeam":"Blackburn","HomeScore":"3","AwayScore":"3","Location":"Elland Road"},{"Date":"Saturday 23 October 1993 ","HomeTeam":"Norwich","AwayTeam":"West Ham","HomeScore":"0","AwayScore":"0","Location":"Carrow Road"},{"Date":"Saturday 23 October 1993 ","HomeTeam":"QPR","AwayTeam":"Coventry","HomeScore":"5","AwayScore":"1","Location":"Loftus Road Stadium"},{"Date":"Saturday 23 October 1993 ","HomeTeam":"Spurs","AwayTeam":"Swindon","HomeScore":"1","AwayScore":"1","Location":"White Hart Lane"},{"Date":"Monday 18 October 1993 ","HomeTeam":"Blackburn","AwayTeam":"Sheffield Utd","HomeScore":"0","AwayScore":"0","Location":"Ewood Park"},{"Date":"Sunday 17 October 1993 ","HomeTeam":"Ipswich","AwayTeam":"Leeds","HomeScore":"0","AwayScore":"0","Location":"Portman Road"},{"Date":"Saturday 16 October 1993 ","HomeTeam":"Arsenal","AwayTeam":"Man City","HomeScore":"0","AwayScore":"0","Location":"Highbury"},{"Date":"Saturday 16 October 1993 ","HomeTeam":"Coventry","AwayTeam":"Southampton","HomeScore":"1","AwayScore":"1","Location":"Highfield Road"},{"Date":"Saturday 16 October 1993 ","HomeTeam":"Man Utd","AwayTeam":"Spurs","HomeScore":"2","AwayScore":"1","Location":"Old Trafford"},{"Date":"Saturday 16 October 1993 ","HomeTeam":"Sheffield Wed","AwayTeam":"Wimbledon","HomeScore":"2","AwayScore":"2","Location":"Hillsborough"},{"Date":"Saturday 16 October 1993 ","HomeTeam":"West Ham","AwayTeam":"Aston Villa","HomeScore":"0","AwayScore":"0","Location":"Boleyn Ground"},{"Date":"Monday 4 October 1993 ","HomeTeam":"Man City","AwayTeam":"Oldham","HomeScore":"1","AwayScore":"1","Location":"Maine Road"},{"Date":"Sunday 3 October 1993 ","HomeTeam":"Spurs","AwayTeam":"Everton","HomeScore":"3","AwayScore":"2","Location":"White Hart Lane"},{"Date":"Saturday 2 October 1993 ","HomeTeam":"Aston Villa","AwayTeam":"Newcastle","HomeScore":"0","AwayScore":"2","Location":"Villa Park"},{"Date":"Saturday 2 October 1993 ","HomeTeam":"Liverpool","AwayTeam":"Arsenal","HomeScore":"0","AwayScore":"0","Location":"Anfield"},{"Date":"Saturday 2 October 1993 ","HomeTeam":"QPR","AwayTeam":"Ipswich","HomeScore":"3","AwayScore":"0","Location":"Loftus Road Stadium"},{"Date":"Saturday 2 October 1993 ","HomeTeam":"Southampton","AwayTeam":"Sheffield Utd","HomeScore":"3","AwayScore":"3","Location":"The Dell"},{"Date":"Saturday 2 October 1993 ","HomeTeam":"West Ham","AwayTeam":"Chelsea","HomeScore":"1","AwayScore":"0","Location":"Boleyn Ground"},{"Date":"Monday 27 September 1993 ","HomeTeam":"Wimbledon","AwayTeam":"QPR","HomeScore":"1","AwayScore":"1","Location":"Plough Lane"},{"Date":"Sunday 26 September 1993 ","HomeTeam":"Ipswich","AwayTeam":"Spurs","HomeScore":"2","AwayScore":"2","Location":"Portman Road"},{"Date":"Saturday 25 September 1993 ","HomeTeam":"Arsenal","AwayTeam":"Southampton","HomeScore":"1","AwayScore":"0","Location":"Highbury"},{"Date":"Saturday 25 September 1993 ","HomeTeam":"Chelsea","AwayTeam":"Liverpool","HomeScore":"1","AwayScore":"0","Location":"Stamford Bridge"},{"Date":"Saturday 25 September 1993 ","HomeTeam":"Everton","AwayTeam":"Norwich","HomeScore":"1","AwayScore":"5","Location":"Goodison Park"},{"Date":"Saturday 25 September 1993 ","HomeTeam":"Newcastle","AwayTeam":"West Ham","HomeScore":"2","AwayScore":"0","Location":"St. James' Park"},{"Date":"Saturday 25 September 1993 ","HomeTeam":"Sheffield Utd","AwayTeam":"Man City","HomeScore":"0","AwayScore":"1","Location":"Bramall Lane"},{"Date":"Monday 20 September 1993 ","HomeTeam":"Wimbledon","AwayTeam":"Man City","HomeScore":"1","AwayScore":"0","Location":"Plough Lane"},{"Date":"Sunday 19 September 1993 ","HomeTeam":"Man Utd","AwayTeam":"Arsenal","HomeScore":"1","AwayScore":"0","Location":"Old Trafford"},{"Date":"Saturday 18 September 1993 ","HomeTeam":"Blackburn","AwayTeam":"West Ham","HomeScore":"0","AwayScore":"2","Location":"Ewood Park"},{"Date":"Saturday 18 September 1993 ","HomeTeam":"Everton","AwayTeam":"Liverpool","HomeScore":"2","AwayScore":"0","Location":"Goodison Park"},{"Date":"Saturday 18 September 1993 ","HomeTeam":"Leeds","AwayTeam":"Sheffield Utd","HomeScore":"2","AwayScore":"1","Location":"Elland Road"},{"Date":"Saturday 18 September 1993 ","HomeTeam":"Sheffield Wed","AwayTeam":"Southampton","HomeScore":"2","AwayScore":"0","Location":"Hillsborough"},{"Date":"Saturday 18 September 1993 ","HomeTeam":"Spurs","AwayTeam":"Oldham","HomeScore":"5","AwayScore":"0","Location":"White Hart Lane"},{"Date":"Monday 13 September 1993 ","HomeTeam":"Newcastle","AwayTeam":"Sheffield Wed","HomeScore":"4","AwayScore":"2","Location":"St. James' Park"},{"Date":"Sunday 12 September 1993 ","HomeTeam":"Liverpool","AwayTeam":"Blackburn","HomeScore":"0","AwayScore":"1","Location":"Anfield"},{"Date":"Saturday 11 September 1993 ","HomeTeam":"Arsenal","AwayTeam":"Ipswich","HomeScore":"4","AwayScore":"0","Location":"Highbury"},{"Date":"Saturday 11 September 1993 ","HomeTeam":"Chelsea","AwayTeam":"Man Utd","HomeScore":"1","AwayScore":"0","Location":"Stamford Bridge"},{"Date":"Saturday 11 September 1993 ","HomeTeam":"Norwich","AwayTeam":"Wimbledon","HomeScore":"0","AwayScore":"1","Location":"Carrow Road"},{"Date":"Saturday 11 September 1993 ","HomeTeam":"Sheffield Utd","AwayTeam":"Spurs","HomeScore":"2","AwayScore":"2","Location":"Bramall Lane"},{"Date":"Saturday 11 September 1993 ","HomeTeam":"West Ham","AwayTeam":"Swindon","HomeScore":"0","AwayScore":"0","Location":"Boleyn Ground"},{"Date":"Wednesday 1 September 1993 ","HomeTeam":"Man Utd","AwayTeam":"West Ham","HomeScore":"3","AwayScore":"0","Location":"Old Trafford"},{"Date":"Wednesday 1 September 1993 ","HomeTeam":"Coventry","AwayTeam":"Liverpool","HomeScore":"1","AwayScore":"0","Location":"Highfield Road"},{"Date":"Wednesday 1 September 1993 ","HomeTeam":"Sheffield Wed","AwayTeam":"Norwich","HomeScore":"3","AwayScore":"3","Location":"Hillsborough"},{"Date":"Wednesday 1 September 1993 ","HomeTeam":"Spurs","AwayTeam":"Chelsea","HomeScore":"1","AwayScore":"1","Location":"White Hart Lane"},{"Date":"Tuesday 31 August 1993 ","HomeTeam":"Wimbledon","AwayTeam":"Southampton","HomeScore":"1","AwayScore":"0","Location":"Plough Lane"},{"Date":"Tuesday 31 August 1993 ","HomeTeam":"Everton","AwayTeam":"Aston Villa","HomeScore":"0","AwayScore":"1","Location":"Goodison Park"},{"Date":"Monday 30 August 1993 ","HomeTeam":"Leeds","AwayTeam":"Oldham","HomeScore":"1","AwayScore":"0","Location":"Elland Road"},{"Date":"Sunday 29 August 1993 ","HomeTeam":"Newcastle","AwayTeam":"Blackburn","HomeScore":"1","AwayScore":"1","Location":"St. James' Park"},{"Date":"Saturday 28 August 1993 ","HomeTeam":"Arsenal","AwayTeam":"Everton","HomeScore":"2","AwayScore":"0","Location":"Highbury"},{"Date":"Saturday 28 August 1993 ","HomeTeam":"Chelsea","AwayTeam":"Sheffield Wed","HomeScore":"1","AwayScore":"1","Location":"Stamford Bridge"},{"Date":"Saturday 28 August 1993 ","HomeTeam":"Norwich","AwayTeam":"Swindon","HomeScore":"0","AwayScore":"0","Location":"Carrow Road"},{"Date":"Saturday 28 August 1993 ","HomeTeam":"Sheffield Utd","AwayTeam":"Ipswich","HomeScore":"1","AwayScore":"1","Location":"Bramall Lane"},{"Date":"Saturday 28 August 1993 ","HomeTeam":"West Ham","AwayTeam":"QPR","HomeScore":"0","AwayScore":"4","Location":"Boleyn Ground"},{"Date":"Friday 27 August 1993 ","HomeTeam":"Man City","AwayTeam":"Coventry","HomeScore":"1","AwayScore":"1","Location":"Maine Road"},{"Date":"Wednesday 25 August 1993 ","HomeTeam":"Chelsea","AwayTeam":"QPR","HomeScore":"2","AwayScore":"0","Location":"Stamford Bridge"},{"Date":"Wednesday 25 August 1993 ","HomeTeam":"Newcastle","AwayTeam":"Everton","HomeScore":"1","AwayScore":"0","Location":"St. James' Park"},{"Date":"Wednesday 25 August 1993 ","HomeTeam":"West Ham","AwayTeam":"Sheffield Wed","HomeScore":"2","AwayScore":"0","Location":"Boleyn Ground"},{"Date":"Tuesday 24 August 1993 ","HomeTeam":"Arsenal","AwayTeam":"Leeds","HomeScore":"2","AwayScore":"1","Location":"Highbury"},{"Date":"Tuesday 24 August 1993 ","HomeTeam":"Sheffield Utd","AwayTeam":"Wimbledon","HomeScore":"2","AwayScore":"1","Location":"Bramall Lane"},{"Date":"Monday 23 August 1993 ","HomeTeam":"Aston Villa","AwayTeam":"Man Utd","HomeScore":"1","AwayScore":"2","Location":"Villa Park"},{"Date":"Sunday 22 August 1993 ","HomeTeam":"Swindon","AwayTeam":"Liverpool","HomeScore":"0","AwayScore":"5","Location":"The County Ground"},{"Date":"Saturday 21 August 1993 ","HomeTeam":"Blackburn","AwayTeam":"Oldham","HomeScore":"1","AwayScore":"0","Location":"Ewood Park"},{"Date":"Saturday 21 August 1993 ","HomeTeam":"Everton","AwayTeam":"Sheffield Utd","HomeScore":"4","AwayScore":"2","Location":"Goodison Park"},{"Date":"Saturday 21 August 1993 ","HomeTeam":"Leeds","AwayTeam":"Norwich","HomeScore":"0","AwayScore":"4","Location":"Elland Road"},{"Date":"Saturday 21 August 1993 ","HomeTeam":"QPR","AwayTeam":"Southampton","HomeScore":"2","AwayScore":"1","Location":"Loftus Road Stadium"},{"Date":"Saturday 21 August 1993 ","HomeTeam":"Spurs","AwayTeam":"Man City","HomeScore":"1","AwayScore":"0","Location":"White Hart Lane"},{"Date":"Wednesday 18 August 1993 ","HomeTeam":"Man Utd","AwayTeam":"Sheffield Utd","HomeScore":"3","AwayScore":"0","Location":"Old Trafford"},{"Date":"Wednesday 18 August 1993 ","HomeTeam":"Coventry","AwayTeam":"Newcastle","HomeScore":"2","AwayScore":"1","Location":"Highfield Road"},{"Date":"Wednesday 18 August 1993 ","HomeTeam":"Sheffield Wed","AwayTeam":"Aston Villa","HomeScore":"0","AwayScore":"0","Location":"Hillsborough"},{"Date":"Tuesday 17 August 1993 ","HomeTeam":"Wimbledon","AwayTeam":"Chelsea","HomeScore":"1","AwayScore":"1","Location":"Plough Lane"},{"Date":"Tuesday 17 August 1993 ","HomeTeam":"Leeds","AwayTeam":"West Ham","HomeScore":"1","AwayScore":"0","Location":"Elland Road"},{"Date":"Monday 16 August 1993 ","HomeTeam":"Spurs","AwayTeam":"Arsenal","HomeScore":"0","AwayScore":"1","Location":"White Hart Lane"},{"Date":"Sunday 15 August 1993 ","HomeTeam":"Norwich","AwayTeam":"Man Utd","HomeScore":"0","AwayScore":"2","Location":"Carrow Road"},{"Date":"Saturday 14 August 1993 ","HomeTeam":"Arsenal","AwayTeam":"Coventry","HomeScore":"0","AwayScore":"3","Location":"Highbury"},{"Date":"Saturday 14 August 1993 ","HomeTeam":"Chelsea","AwayTeam":"Blackburn","HomeScore":"1","AwayScore":"2","Location":"Stamford Bridge"},{"Date":"Saturday 14 August 1993 ","HomeTeam":"Man City","AwayTeam":"Leeds","HomeScore":"1","AwayScore":"1","Location":"Maine Road"},{"Date":"Saturday 14 August 1993 ","HomeTeam":"Oldham","AwayTeam":"Ipswich","HomeScore":"0","AwayScore":"3","Location":"Boundary Park"},{"Date":"Saturday 14 August 1993 ","HomeTeam":"Southampton","AwayTeam":"Everton","HomeScore":"0","AwayScore":"2","Location":"The Dell"}]
+[
+	{
+		"Date": "Sunday 8 May 1994 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Coventry",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 7 May 1994 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 7 May 1994 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 7 May 1994 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "3",
+		"AwayScore": "2",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 7 May 1994 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "3",
+		"AwayScore": "2",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 7 May 1994 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 7 May 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Oldham",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 7 May 1994 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Man City",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 7 May 1994 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Leeds",
+		"HomeScore": "0",
+		"AwayScore": "5",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 7 May 1994 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "QPR",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 7 May 1994 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Southampton",
+		"HomeScore": "3",
+		"AwayScore": "3",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Thursday 5 May 1994 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Spurs",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Wednesday 4 May 1994 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Southampton",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Wednesday 4 May 1994 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Coventry",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Tuesday 3 May 1994 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Tuesday 3 May 1994 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Tuesday 3 May 1994 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "West Ham",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Monday 2 May 1994 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Sunday 1 May 1994 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 30 April 1994 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "West Ham",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 30 April 1994 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Everton",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 30 April 1994 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Norwich",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 30 April 1994 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 30 April 1994 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 30 April 1994 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Swindon",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 30 April 1994 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 30 April 1994 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "4",
+		"AwayScore": "1",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 30 April 1994 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Spurs",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Wednesday 27 April 1994 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Swindon",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Wednesday 27 April 1994 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Wednesday 27 April 1994 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "5",
+		"AwayScore": "1",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Wednesday 27 April 1994 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Wednesday 27 April 1994 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Tuesday 26 April 1994 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Oldham",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Sunday 24 April 1994 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "QPR",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 23 April 1994 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Man City",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 23 April 1994 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 23 April 1994 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Leeds",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 23 April 1994 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Coventry",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 23 April 1994 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Oldham",
+		"HomeScore": "3",
+		"AwayScore": "2",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 23 April 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 23 April 1994 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "5",
+		"AwayScore": "0",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 23 April 1994 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "2",
+		"AwayScore": "4",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 23 April 1994 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Southampton",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 23 April 1994 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Tuesday 19 April 1994 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Sunday 17 April 1994 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Spurs",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 16 April 1994 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Saturday 16 April 1994 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 16 April 1994 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 16 April 1994 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Swindon",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 16 April 1994 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 16 April 1994 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Norwich",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 16 April 1994 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "West Ham",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 16 April 1994 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Everton",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 16 April 1994 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 16 April 1994 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Wednesday 13 April 1994 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Monday 11 April 1994 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 9 April 1994 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Spurs",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 9 April 1994 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 9 April 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Southampton",
+		"HomeScore": "4",
+		"AwayScore": "5",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 9 April 1994 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "QPR",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 9 April 1994 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Everton",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Saturday 9 April 1994 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Monday 4 April 1994 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Monday 4 April 1994 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Norwich",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Monday 4 April 1994 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "0",
+		"AwayScore": "3",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Monday 4 April 1994 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Coventry",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Monday 4 April 1994 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Oldham",
+		"HomeScore": "3",
+		"AwayScore": "2",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Monday 4 April 1994 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Monday 4 April 1994 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Leeds",
+		"HomeScore": "0",
+		"AwayScore": "4",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Monday 4 April 1994 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Monday 4 April 1994 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Man City",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Monday 4 April 1994 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "West Ham",
+		"HomeScore": "1",
+		"AwayScore": "4",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Monday 4 April 1994 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Saturday 2 April 1994 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 2 April 1994 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Swindon",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 2 April 1994 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Southampton",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 2 April 1994 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 2 April 1994 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 2 April 1994 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 2 April 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Spurs",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 2 April 1994 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "QPR",
+		"HomeScore": "4",
+		"AwayScore": "1",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 2 April 1994 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Everton",
+		"HomeScore": "5",
+		"AwayScore": "1",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 2 April 1994 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Friday 1 April 1994 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Wednesday 30 March 1994 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Wednesday 30 March 1994 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Everton",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Wednesday 30 March 1994 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Wednesday 30 March 1994 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Oldham",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Tuesday 29 March 1994 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "4",
+		"AwayScore": "1",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Tuesday 29 March 1994 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Man City",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Tuesday 29 March 1994 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Norwich",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Monday 28 March 1994 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "West Ham",
+		"HomeScore": "3",
+		"AwayScore": "2",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 26 March 1994 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 26 March 1994 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Swindon",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 26 March 1994 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "West Ham",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 26 March 1994 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Norwich",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 26 March 1994 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Spurs",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 26 March 1994 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "QPR",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 26 March 1994 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Man City",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 26 March 1994 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Southampton",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 26 March 1994 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Leeds",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Wednesday 23 March 1994 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Tuesday 22 March 1994 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Monday 21 March 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Everton",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Sunday 20 March 1994 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 19 March 1994 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Oldham",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 19 March 1994 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Coventry",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 19 March 1994 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 19 March 1994 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 19 March 1994 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 19 March 1994 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "0",
+		"AwayScore": "4",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 19 March 1994 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 19 March 1994 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 19 March 1994 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "2",
+		"AwayScore": "4",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Wednesday 16 March 1994 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "5",
+		"AwayScore": "0",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Wednesday 16 March 1994 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Wednesday 16 March 1994 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Wednesday 16 March 1994 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "QPR",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Sunday 13 March 1994 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Everton",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Sunday 13 March 1994 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Leeds",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 12 March 1994 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 12 March 1994 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 12 March 1994 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Swindon",
+		"HomeScore": "7",
+		"AwayScore": "1",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 12 March 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "QPR",
+		"HomeScore": "3",
+		"AwayScore": "4",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 12 March 1994 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Sunday 6 March 1994 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 5 March 1994 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 5 March 1994 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Oldham",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 5 March 1994 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "1",
+		"AwayScore": "5",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 5 March 1994 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Southampton",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 5 March 1994 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 5 March 1994 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Man City",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 5 March 1994 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 5 March 1994 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "West Ham",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 5 March 1994 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 5 March 1994 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Norwich",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Wednesday 2 March 1994 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Monday 28 February 1994 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Leeds",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Sunday 27 February 1994 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Spurs",
+		"HomeScore": "4",
+		"AwayScore": "3",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 26 February 1994 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 26 February 1994 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Coventry",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 26 February 1994 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Swindon",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 26 February 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 26 February 1994 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 26 February 1994 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Wednesday 23 February 1994 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Coventry",
+		"HomeScore": "4",
+		"AwayScore": "0",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Tuesday 22 February 1994 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Man City",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Tuesday 22 February 1994 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "3",
+		"AwayScore": "2",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Tuesday 22 February 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 19 February 1994 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 19 February 1994 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Man City",
+		"HomeScore": "4",
+		"AwayScore": "0",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 19 February 1994 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 19 February 1994 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 19 February 1994 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Norwich",
+		"HomeScore": "3",
+		"AwayScore": "3",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Monday 14 February 1994 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "4",
+		"AwayScore": "2",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Sunday 13 February 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 12 February 1994 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Swindon",
+		"HomeScore": "5",
+		"AwayScore": "0",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 12 February 1994 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 12 February 1994 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "West Ham",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 12 February 1994 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 12 February 1994 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Coventry",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 12 February 1994 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 12 February 1994 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "4",
+		"AwayScore": "2",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Sunday 6 February 1994 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Leeds",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 5 February 1994 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 5 February 1994 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "4",
+		"AwayScore": "2",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 5 February 1994 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 5 February 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 5 February 1994 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Southampton",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 5 February 1994 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "2",
+		"AwayScore": "3",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 5 February 1994 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Coventry",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 5 February 1994 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Wednesday 2 February 1994 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Monday 24 January 1994 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Norwich",
+		"HomeScore": "3",
+		"AwayScore": "3",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Sunday 23 January 1994 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Leeds",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 22 January 1994 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Oldham",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 22 January 1994 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 22 January 1994 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "QPR",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 22 January 1994 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 22 January 1994 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Man City",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 22 January 1994 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Everton",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 22 January 1994 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Southampton",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 22 January 1994 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 22 January 1994 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Spurs",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Sunday 16 January 1994 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 15 January 1994 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "West Ham",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 15 January 1994 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Swindon",
+		"HomeScore": "6",
+		"AwayScore": "2",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 15 January 1994 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 15 January 1994 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 15 January 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 15 January 1994 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "0",
+		"AwayScore": "3",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 15 January 1994 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 15 January 1994 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Coventry",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 15 January 1994 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 15 January 1994 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Tuesday 4 January 1994 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "3",
+		"AwayScore": "3",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Tuesday 4 January 1994 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Monday 3 January 1994 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Swindon",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Monday 3 January 1994 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "QPR",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Monday 3 January 1994 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Everton",
+		"HomeScore": "4",
+		"AwayScore": "2",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Monday 3 January 1994 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Spurs",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Monday 3 January 1994 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Saturday 1 January 1994 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 1 January 1994 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "West Ham",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 1 January 1994 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 1 January 1994 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Man City",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 1 January 1994 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 1 January 1994 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Oldham",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 1 January 1994 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Norwich",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 1 January 1994 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 1 January 1994 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Coventry",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 1 January 1994 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "0",
+		"AwayScore": "3",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Saturday 1 January 1994 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Leeds",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Wednesday 29 December 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Wednesday 29 December 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Everton",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Wednesday 29 December 1993 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "QPR",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Wednesday 29 December 1993 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Wednesday 29 December 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Swindon",
+		"HomeScore": "3",
+		"AwayScore": "3",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Wednesday 29 December 1993 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "2",
+		"AwayScore": "5",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Tuesday 28 December 1993 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Tuesday 28 December 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Tuesday 28 December 1993 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Southampton",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Tuesday 28 December 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Spurs",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Monday 27 December 1993 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Monday 27 December 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "West Ham",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Monday 27 December 1993 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Oldham",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Monday 27 December 1993 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Norwich",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Monday 27 December 1993 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Monday 27 December 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "0",
+		"AwayScore": "4",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Sunday 26 December 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Sunday 26 December 1993 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Coventry",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Sunday 26 December 1993 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Wednesday 22 December 1993 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Leeds",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Sunday 19 December 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 18 December 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Man City",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 18 December 1993 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Oldham",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 18 December 1993 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 18 December 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Norwich",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 18 December 1993 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 18 December 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "West Ham",
+		"HomeScore": "5",
+		"AwayScore": "0",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 18 December 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Southampton",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 18 December 1993 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "3",
+		"AwayScore": "3",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 18 December 1993 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Monday 13 December 1993 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Leeds",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Sunday 12 December 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 11 December 1993 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 11 December 1993 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 11 December 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Swindon",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 11 December 1993 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Spurs",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 11 December 1993 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 11 December 1993 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 11 December 1993 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Everton",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 11 December 1993 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "QPR",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 11 December 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Coventry",
+		"HomeScore": "3",
+		"AwayScore": "2",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Wednesday 8 December 1993 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Wednesday 8 December 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "QPR",
+		"HomeScore": "3",
+		"AwayScore": "2",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Wednesday 8 December 1993 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Everton",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Wednesday 8 December 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Leeds",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Wednesday 8 December 1993 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Tuesday 7 December 1993 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "0",
+		"AwayScore": "3",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Tuesday 7 December 1993 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Swindon",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Monday 6 December 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Spurs",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Sunday 5 December 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 4 December 1993 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 4 December 1993 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Southampton",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 4 December 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Oldham",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 4 December 1993 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Man City",
+		"HomeScore": "3",
+		"AwayScore": "2",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 4 December 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Norwich",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 4 December 1993 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 4 December 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 4 December 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 4 December 1993 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 4 December 1993 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "West Ham",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Monday 29 November 1993 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "West Ham",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Sunday 28 November 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 27 November 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 27 November 1993 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 27 November 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 27 November 1993 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Swindon",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 27 November 1993 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 27 November 1993 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Norwich",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 27 November 1993 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Spurs",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 27 November 1993 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 27 November 1993 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Everton",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Wednesday 24 November 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Wednesday 24 November 1993 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Southampton",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Wednesday 24 November 1993 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "4",
+		"AwayScore": "0",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Wednesday 24 November 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Oldham",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Wednesday 24 November 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "QPR",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Wednesday 24 November 1993 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Wednesday 24 November 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Tuesday 23 November 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Coventry",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Tuesday 23 November 1993 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Leeds",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Monday 22 November 1993 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Man City",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Sunday 21 November 1993 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 20 November 1993 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 20 November 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Southampton",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 20 November 1993 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 20 November 1993 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "QPR",
+		"HomeScore": "0",
+		"AwayScore": "3",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 20 November 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 20 November 1993 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Man City",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 20 November 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Coventry",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 20 November 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 20 November 1993 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Leeds",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 20 November 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Oldham",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Monday 8 November 1993 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Sunday 7 November 1993 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "2",
+		"AwayScore": "3",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 6 November 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 6 November 1993 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Everton",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 6 November 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "1",
+		"AwayScore": "4",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 6 November 1993 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "4",
+		"AwayScore": "1",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 6 November 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "West Ham",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 6 November 1993 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 6 November 1993 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Norwich",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 6 November 1993 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Spurs",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 6 November 1993 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Swindon",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Monday 1 November 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Man City",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Sunday 31 October 1993 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 30 October 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Norwich",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 30 October 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Spurs",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 30 October 1993 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Oldham",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 30 October 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Everton",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 30 October 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Southampton",
+		"HomeScore": "4",
+		"AwayScore": "2",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 30 October 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "QPR",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 30 October 1993 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "4",
+		"AwayScore": "0",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 30 October 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Leeds",
+		"HomeScore": "3",
+		"AwayScore": "3",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 30 October 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Monday 25 October 1993 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Sunday 24 October 1993 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 23 October 1993 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 23 October 1993 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 23 October 1993 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "3",
+		"AwayScore": "3",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 23 October 1993 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 23 October 1993 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "West Ham",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 23 October 1993 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 23 October 1993 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Coventry",
+		"HomeScore": "5",
+		"AwayScore": "1",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 23 October 1993 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 23 October 1993 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Swindon",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Monday 18 October 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Sunday 17 October 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Leeds",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 16 October 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Man City",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 16 October 1993 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Norwich",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 16 October 1993 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Southampton",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 16 October 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Oldham",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 16 October 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Spurs",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 16 October 1993 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "QPR",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 16 October 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 16 October 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Everton",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 16 October 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Monday 4 October 1993 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Oldham",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Sunday 3 October 1993 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Everton",
+		"HomeScore": "3",
+		"AwayScore": "2",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 2 October 1993 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 2 October 1993 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "4",
+		"AwayScore": "0",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 2 October 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 2 October 1993 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Coventry",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 2 October 1993 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 2 October 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "2",
+		"AwayScore": "3",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 2 October 1993 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "3",
+		"AwayScore": "3",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 2 October 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 2 October 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Monday 27 September 1993 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "QPR",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Sunday 26 September 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Spurs",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 25 September 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Southampton",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 25 September 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 25 September 1993 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 25 September 1993 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Leeds",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 25 September 1993 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Norwich",
+		"HomeScore": "1",
+		"AwayScore": "5",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 25 September 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Swindon",
+		"HomeScore": "4",
+		"AwayScore": "2",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 25 September 1993 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "West Ham",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 25 September 1993 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 25 September 1993 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Man City",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Monday 20 September 1993 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Man City",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Sunday 19 September 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 18 September 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "West Ham",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 18 September 1993 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 18 September 1993 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 18 September 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 18 September 1993 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 18 September 1993 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Norwich",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 18 September 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Southampton",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 18 September 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 18 September 1993 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Oldham",
+		"HomeScore": "5",
+		"AwayScore": "0",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Monday 13 September 1993 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "4",
+		"AwayScore": "2",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Sunday 12 September 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 11 September 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "4",
+		"AwayScore": "0",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 11 September 1993 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Coventry",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 11 September 1993 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 11 September 1993 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "QPR",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 11 September 1993 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 11 September 1993 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Everton",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 11 September 1993 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Spurs",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 11 September 1993 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Leeds",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 11 September 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Swindon",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Wednesday 1 September 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "West Ham",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Wednesday 1 September 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Wednesday 1 September 1993 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Wednesday 1 September 1993 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Wednesday 1 September 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Norwich",
+		"HomeScore": "3",
+		"AwayScore": "3",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Wednesday 1 September 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Man City",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Wednesday 1 September 1993 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Tuesday 31 August 1993 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Southampton",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Tuesday 31 August 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Tuesday 31 August 1993 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Monday 30 August 1993 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Oldham",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Sunday 29 August 1993 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 28 August 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Everton",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 28 August 1993 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Spurs",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 28 August 1993 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 28 August 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Leeds",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 28 August 1993 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Swindon",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 28 August 1993 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 28 August 1993 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 28 August 1993 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 28 August 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "QPR",
+		"HomeScore": "0",
+		"AwayScore": "4",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Friday 27 August 1993 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Coventry",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Wednesday 25 August 1993 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "QPR",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Wednesday 25 August 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Spurs",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Wednesday 25 August 1993 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Everton",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Wednesday 25 August 1993 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Wednesday 25 August 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Boleyn Ground"
+	},
+	{
+		"Date": "Wednesday 25 August 1993 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Swindon",
+		"HomeScore": "5",
+		"AwayScore": "1",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Tuesday 24 August 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Leeds",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Tuesday 24 August 1993 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Tuesday 24 August 1993 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Tuesday 24 August 1993 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Coventry",
+		"HomeScore": "3",
+		"AwayScore": "3",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Monday 23 August 1993 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Sunday 22 August 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "0",
+		"AwayScore": "5",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Saturday 21 August 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Oldham",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Saturday 21 August 1993 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "West Ham",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Saturday 21 August 1993 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "4",
+		"AwayScore": "2",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Saturday 21 August 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Saturday 21 August 1993 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "Norwich",
+		"HomeScore": "0",
+		"AwayScore": "4",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Saturday 21 August 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Saturday 21 August 1993 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Southampton",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Saturday 21 August 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Saturday 21 August 1993 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Man City",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Saturday 21 August 1993 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "2",
+		"AwayScore": "2",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Wednesday 18 August 1993 ",
+		"HomeTeam": "Man Utd",
+		"AwayTeam": "Sheffield Utd",
+		"HomeScore": "3",
+		"AwayScore": "0",
+		"Location": "Old Trafford"
+	},
+	{
+		"Date": "Wednesday 18 August 1993 ",
+		"HomeTeam": "Blackburn",
+		"AwayTeam": "Norwich",
+		"HomeScore": "2",
+		"AwayScore": "3",
+		"Location": "Ewood Park"
+	},
+	{
+		"Date": "Wednesday 18 August 1993 ",
+		"HomeTeam": "Coventry",
+		"AwayTeam": "Newcastle",
+		"HomeScore": "2",
+		"AwayScore": "1",
+		"Location": "Highfield Road"
+	},
+	{
+		"Date": "Wednesday 18 August 1993 ",
+		"HomeTeam": "QPR",
+		"AwayTeam": "Liverpool",
+		"HomeScore": "1",
+		"AwayScore": "3",
+		"Location": "Loftus Road Stadium"
+	},
+	{
+		"Date": "Wednesday 18 August 1993 ",
+		"HomeTeam": "Sheffield Wed",
+		"AwayTeam": "Aston Villa",
+		"HomeScore": "0",
+		"AwayScore": "0",
+		"Location": "Hillsborough"
+	},
+	{
+		"Date": "Wednesday 18 August 1993 ",
+		"HomeTeam": "Swindon",
+		"AwayTeam": "Oldham",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "The County Ground"
+	},
+	{
+		"Date": "Tuesday 17 August 1993 ",
+		"HomeTeam": "Wimbledon",
+		"AwayTeam": "Chelsea",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Plough Lane"
+	},
+	{
+		"Date": "Tuesday 17 August 1993 ",
+		"HomeTeam": "Ipswich",
+		"AwayTeam": "Southampton",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Portman Road"
+	},
+	{
+		"Date": "Tuesday 17 August 1993 ",
+		"HomeTeam": "Leeds",
+		"AwayTeam": "West Ham",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Elland Road"
+	},
+	{
+		"Date": "Tuesday 17 August 1993 ",
+		"HomeTeam": "Everton",
+		"AwayTeam": "Man City",
+		"HomeScore": "1",
+		"AwayScore": "0",
+		"Location": "Goodison Park"
+	},
+	{
+		"Date": "Monday 16 August 1993 ",
+		"HomeTeam": "Spurs",
+		"AwayTeam": "Arsenal",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "White Hart Lane"
+	},
+	{
+		"Date": "Sunday 15 August 1993 ",
+		"HomeTeam": "Norwich",
+		"AwayTeam": "Man Utd",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Carrow Road"
+	},
+	{
+		"Date": "Saturday 14 August 1993 ",
+		"HomeTeam": "Arsenal",
+		"AwayTeam": "Coventry",
+		"HomeScore": "0",
+		"AwayScore": "3",
+		"Location": "Highbury"
+	},
+	{
+		"Date": "Saturday 14 August 1993 ",
+		"HomeTeam": "Aston Villa",
+		"AwayTeam": "QPR",
+		"HomeScore": "4",
+		"AwayScore": "1",
+		"Location": "Villa Park"
+	},
+	{
+		"Date": "Saturday 14 August 1993 ",
+		"HomeTeam": "Chelsea",
+		"AwayTeam": "Blackburn",
+		"HomeScore": "1",
+		"AwayScore": "2",
+		"Location": "Stamford Bridge"
+	},
+	{
+		"Date": "Saturday 14 August 1993 ",
+		"HomeTeam": "Liverpool",
+		"AwayTeam": "Sheffield Wed",
+		"HomeScore": "2",
+		"AwayScore": "0",
+		"Location": "Anfield"
+	},
+	{
+		"Date": "Saturday 14 August 1993 ",
+		"HomeTeam": "Man City",
+		"AwayTeam": "Leeds",
+		"HomeScore": "1",
+		"AwayScore": "1",
+		"Location": "Maine Road"
+	},
+	{
+		"Date": "Saturday 14 August 1993 ",
+		"HomeTeam": "Newcastle",
+		"AwayTeam": "Spurs",
+		"HomeScore": "0",
+		"AwayScore": "1",
+		"Location": "St. James' Park"
+	},
+	{
+		"Date": "Saturday 14 August 1993 ",
+		"HomeTeam": "Oldham",
+		"AwayTeam": "Ipswich",
+		"HomeScore": "0",
+		"AwayScore": "3",
+		"Location": "Boundary Park"
+	},
+	{
+		"Date": "Saturday 14 August 1993 ",
+		"HomeTeam": "Sheffield Utd",
+		"AwayTeam": "Swindon",
+		"HomeScore": "3",
+		"AwayScore": "1",
+		"Location": "Bramall Lane"
+	},
+	{
+		"Date": "Saturday 14 August 1993 ",
+		"HomeTeam": "Southampton",
+		"AwayTeam": "Everton",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "The Dell"
+	},
+	{
+		"Date": "Saturday 14 August 1993 ",
+		"HomeTeam": "West Ham",
+		"AwayTeam": "Wimbledon",
+		"HomeScore": "0",
+		"AwayScore": "2",
+		"Location": "Boleyn Ground"
+	}
+]

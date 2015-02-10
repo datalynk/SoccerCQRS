@@ -82,7 +82,14 @@
                 link: function (scope, element) {
                     function setGames(result) {
                         scope.allGames = result.data;
-                        scope.allGamesPerTeam = $filter('groupBy')(result.data, 'HomeTeam');
+                        var teams = $filter('groupBy')(result.data, 'AwayTeam');
+                        scope.allGamesPerTeam = {};
+
+                        angular.forEach(teams, function(a, team, c) {
+                            var gamesForTeam = $filter('filter')(scope.allGames, { $: team });
+                            scope.allGamesPerTeam[team] = gamesForTeam;
+                        });
+
                     }
                     eventService.GetGamesForYear(scope.year).then(setGames);
                 }

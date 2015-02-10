@@ -3,7 +3,7 @@
 <head>
     <title>App</title>
 
-    <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <!--<link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />-->
     <script type="text/javascript" src="bower_components/angular/angular.js"></script>
     <script type="text/javascript" src="bower_components/angular-route/angular-route.min.js"></script>
     <script type="text/javascript" src="bower_components/angular-filter/dist/angular-filter.js"></script>
@@ -12,7 +12,7 @@
     <body ng-app="soccerApp">
         
         <ul class="nav nav-tabs nav-justified" ng-controller="NavigationController">
-            <li ng-repeat="route in routes" role="presentation" ng-class="{active: $route.current.controller == route.controllerName}">
+            <li ng-repeat="route in routes" ng-class="{active: $route.current.controller == route.controllerName}">
                 <a ng-href="{{route.route}}" ng-bind="route.name"></a>
             </li>
         </ul>
