@@ -39,8 +39,8 @@ function doIt(year) {
                     if (!event.HomeTeam) return;
                     event.AwayTeam = $this.find('.rAway').find('a').text();
                     var score = $this.find('.score').find('a').text().split(' - ');
-                    event.HomeScore = score[0];
-                    event.AwayScore = score[1];
+                    event.HomeScore = parseInt(score[0]);
+                    event.AwayScore = parseInt(score[1]);
                     event.Location = $this.find('.location').find('a').text();
                     events.push(event);
                 });

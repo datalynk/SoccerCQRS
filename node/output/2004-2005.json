@@ -3,3040 +3,3040 @@
 		"Date": "Sunday 15 May 2005 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Sunday 15 May 2005 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Everton",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Sunday 15 May 2005 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Sunday 15 May 2005 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Norwich",
-		"HomeScore": "6",
-		"AwayScore": "0",
+		"HomeScore": 6,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Sunday 15 May 2005 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Sunday 15 May 2005 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Sunday 15 May 2005 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Sunday 15 May 2005 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Sunday 15 May 2005 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 15 May 2005 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Wednesday 11 May 2005 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Everton",
-		"HomeScore": "7",
-		"AwayScore": "0",
+		"HomeScore": 7,
+		"AwayScore": 0,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Tuesday 10 May 2005 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 8 May 2005 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Saturday 7 May 2005 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 7 May 2005 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 7 May 2005 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 7 May 2005 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Southampton",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 7 May 2005 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 7 May 2005 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 7 May 2005 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 7 May 2005 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 7 May 2005 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Charlton",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Wednesday 4 May 2005 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Monday 2 May 2005 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Sunday 1 May 2005 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "4",
+		"HomeScore": 0,
+		"AwayScore": 4,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Sunday 1 May 2005 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "5",
-		"AwayScore": "1",
+		"HomeScore": 5,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 30 April 2005 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 30 April 2005 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Saturday 30 April 2005 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Everton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 30 April 2005 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 30 April 2005 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 30 April 2005 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 30 April 2005 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Norwich",
-		"HomeScore": "4",
-		"AwayScore": "3",
+		"HomeScore": 4,
+		"AwayScore": 3,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Wednesday 27 April 2005 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Tuesday 26 April 2005 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Monday 25 April 2005 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Sunday 24 April 2005 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 24 April 2005 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Southampton",
-		"HomeScore": "4",
-		"AwayScore": "1",
+		"HomeScore": 4,
+		"AwayScore": 1,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 23 April 2005 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 23 April 2005 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Man City",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 23 April 2005 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 23 April 2005 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "West Brom",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 23 April 2005 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Charlton",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 23 April 2005 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Fulham",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 23 April 2005 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Wednesday 20 April 2005 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Wednesday 20 April 2005 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Wednesday 20 April 2005 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Wednesday 20 April 2005 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Charlton",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Wednesday 20 April 2005 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Wednesday 20 April 2005 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Wednesday 20 April 2005 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Wednesday 20 April 2005 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Tuesday 19 April 2005 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Southampton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Tuesday 19 April 2005 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 16 April 2005 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Saturday 16 April 2005 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Saturday 16 April 2005 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Norwich",
-		"HomeScore": "3",
-		"AwayScore": "3",
+		"HomeScore": 3,
+		"AwayScore": 3,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 16 April 2005 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 16 April 2005 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Spurs",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 16 April 2005 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Sunday 10 April 2005 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 10 April 2005 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Sunday 10 April 2005 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 9 April 2005 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 9 April 2005 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Southampton",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 9 April 2005 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Fulham",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 9 April 2005 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 9 April 2005 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 9 April 2005 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 9 April 2005 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Charlton",
-		"HomeScore": "4",
-		"AwayScore": "2",
+		"HomeScore": 4,
+		"AwayScore": 2,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Sunday 3 April 2005 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Sunday 3 April 2005 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 2 April 2005 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Saturday 2 April 2005 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Norwich",
-		"HomeScore": "4",
-		"AwayScore": "1",
+		"HomeScore": 4,
+		"AwayScore": 1,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Saturday 2 April 2005 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Saturday 2 April 2005 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 2 April 2005 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 2 April 2005 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 2 April 2005 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "0",
-		"AwayScore": "3",
+		"HomeScore": 0,
+		"AwayScore": 3,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 2 April 2005 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Man City",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Sunday 20 March 2005 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Everton",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Sunday 20 March 2005 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Southampton",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Sunday 20 March 2005 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Saturday 19 March 2005 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 19 March 2005 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "4",
+		"HomeScore": 1,
+		"AwayScore": 4,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Saturday 19 March 2005 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "4",
-		"AwayScore": "1",
+		"HomeScore": 4,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 19 March 2005 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 19 March 2005 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 19 March 2005 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Man City",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 19 March 2005 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Wednesday 16 March 2005 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Spurs",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Wednesday 16 March 2005 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Tuesday 15 March 2005 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Monday 7 March 2005 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Bolton",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Sunday 6 March 2005 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Sunday 6 March 2005 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 5 March 2005 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 5 March 2005 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Saturday 5 March 2005 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 5 March 2005 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Charlton",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 5 March 2005 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 5 March 2005 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Saturday 5 March 2005 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Monday 28 February 2005 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Man City",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Sunday 27 February 2005 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Charlton",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Sunday 27 February 2005 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 26 February 2005 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 26 February 2005 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 26 February 2005 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 26 February 2005 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Fulham",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 26 February 2005 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Tuesday 22 February 2005 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Southampton",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Monday 14 February 2005 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "5",
-		"AwayScore": "1",
+		"HomeScore": 5,
+		"AwayScore": 1,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Sunday 13 February 2005 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 12 February 2005 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 12 February 2005 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Saturday 12 February 2005 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Norwich",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 12 February 2005 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 12 February 2005 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Sunday 6 February 2005 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Man City",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Sunday 6 February 2005 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Everton",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Saturday 5 February 2005 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 5 February 2005 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Fulham",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 5 February 2005 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 5 February 2005 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 5 February 2005 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Charlton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 5 February 2005 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "West Brom",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 5 February 2005 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 5 February 2005 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Bolton",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Wednesday 2 February 2005 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Wednesday 2 February 2005 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Wednesday 2 February 2005 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Southampton",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Wednesday 2 February 2005 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Wednesday 2 February 2005 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Tuesday 1 February 2005 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "2",
-		"AwayScore": "4",
+		"HomeScore": 2,
+		"AwayScore": 4,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Tuesday 1 February 2005 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Spurs",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Tuesday 1 February 2005 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Tuesday 1 February 2005 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Tuesday 1 February 2005 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Monday 24 January 2005 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Bolton",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Sunday 23 January 2005 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Saturday 22 January 2005 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Man City",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 22 January 2005 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Saturday 22 January 2005 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 22 January 2005 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Spurs",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 22 January 2005 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Charlton",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 22 January 2005 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 22 January 2005 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "4",
-		"AwayScore": "4",
+		"HomeScore": 4,
+		"AwayScore": 4,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 22 January 2005 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Sunday 16 January 2005 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Sunday 16 January 2005 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 15 January 2005 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 15 January 2005 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Norwich",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 15 January 2005 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Saturday 15 January 2005 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 15 January 2005 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Southampton",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 15 January 2005 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 15 January 2005 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 15 January 2005 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Wednesday 5 January 2005 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Fulham",
-		"HomeScore": "3",
-		"AwayScore": "3",
+		"HomeScore": 3,
+		"AwayScore": 3,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Tuesday 4 January 2005 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Tuesday 4 January 2005 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Tuesday 4 January 2005 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Tuesday 4 January 2005 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Tuesday 4 January 2005 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Monday 3 January 2005 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Monday 3 January 2005 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Charlton",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Monday 3 January 2005 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Monday 3 January 2005 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 1 January 2005 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 1 January 2005 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 1 January 2005 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 1 January 2005 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Saturday 1 January 2005 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Southampton",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 1 January 2005 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 1 January 2005 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 1 January 2005 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Everton",
-		"HomeScore": "5",
-		"AwayScore": "2",
+		"HomeScore": 5,
+		"AwayScore": 2,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 1 January 2005 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 1 January 2005 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Wednesday 29 December 2004 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Tuesday 28 December 2004 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Tuesday 28 December 2004 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Southampton",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Tuesday 28 December 2004 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Tuesday 28 December 2004 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Everton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Tuesday 28 December 2004 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Tuesday 28 December 2004 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Tuesday 28 December 2004 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Norwich",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Tuesday 28 December 2004 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Tuesday 28 December 2004 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 26 December 2004 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Sunday 26 December 2004 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Sunday 26 December 2004 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Man City",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Sunday 26 December 2004 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 26 December 2004 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Sunday 26 December 2004 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "0",
-		"AwayScore": "5",
+		"HomeScore": 0,
+		"AwayScore": 5,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Sunday 26 December 2004 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Fulham",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Sunday 26 December 2004 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Sunday 26 December 2004 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Sunday 26 December 2004 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Charlton",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Monday 20 December 2004 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Fulham",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Sunday 19 December 2004 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Sunday 19 December 2004 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 18 December 2004 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "5",
-		"AwayScore": "2",
+		"HomeScore": 5,
+		"AwayScore": 2,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 18 December 2004 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Everton",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 18 December 2004 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Man City",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 18 December 2004 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Norwich",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 18 December 2004 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 18 December 2004 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Southampton",
-		"HomeScore": "5",
-		"AwayScore": "1",
+		"HomeScore": 5,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 18 December 2004 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "West Brom",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Tuesday 14 December 2004 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Monday 13 December 2004 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Sunday 12 December 2004 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Sunday 12 December 2004 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 11 December 2004 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 11 December 2004 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 11 December 2004 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 11 December 2004 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Bolton",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 11 December 2004 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Saturday 11 December 2004 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Charlton",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 11 December 2004 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Monday 6 December 2004 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Man City",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Sunday 5 December 2004 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Charlton",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 4 December 2004 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 4 December 2004 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Saturday 4 December 2004 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 4 December 2004 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Bolton",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 4 December 2004 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Southampton",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 4 December 2004 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Fulham",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 4 December 2004 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "West Brom",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 4 December 2004 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Sunday 28 November 2004 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Sunday 28 November 2004 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 28 November 2004 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 27 November 2004 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 27 November 2004 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Saturday 27 November 2004 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 27 November 2004 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "4",
+		"HomeScore": 0,
+		"AwayScore": 4,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Saturday 27 November 2004 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Saturday 27 November 2004 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "3",
+		"HomeScore": 0,
+		"AwayScore": 3,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 27 November 2004 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Monday 22 November 2004 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Sunday 21 November 2004 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "3",
-		"AwayScore": "3",
+		"HomeScore": 3,
+		"AwayScore": 3,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 20 November 2004 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 20 November 2004 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Saturday 20 November 2004 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 20 November 2004 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 20 November 2004 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 20 November 2004 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 20 November 2004 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Southampton",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 20 November 2004 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Charlton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 14 November 2004 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Sunday 14 November 2004 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 13 November 2004 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Everton",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Saturday 13 November 2004 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 13 November 2004 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Norwich",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Saturday 13 November 2004 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "4",
+		"HomeScore": 1,
+		"AwayScore": 4,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 13 November 2004 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 13 November 2004 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 13 November 2004 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Saturday 13 November 2004 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "4",
-		"AwayScore": "5",
+		"HomeScore": 4,
+		"AwayScore": 5,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 7 November 2004 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Man City",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 7 November 2004 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "4",
+		"HomeScore": 1,
+		"AwayScore": 4,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Sunday 7 November 2004 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 6 November 2004 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 6 November 2004 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 6 November 2004 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 6 November 2004 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 6 November 2004 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "West Brom",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Saturday 6 November 2004 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Charlton",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 6 November 2004 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Monday 1 November 2004 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Sunday 31 October 2004 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 30 October 2004 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 30 October 2004 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Southampton",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Saturday 30 October 2004 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Saturday 30 October 2004 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 30 October 2004 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Spurs",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 30 October 2004 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 30 October 2004 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "4",
+		"HomeScore": 1,
+		"AwayScore": 4,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 30 October 2004 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Sunday 24 October 2004 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 24 October 2004 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Sunday 24 October 2004 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Man City",
-		"HomeScore": "4",
-		"AwayScore": "3",
+		"HomeScore": 4,
+		"AwayScore": 3,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Sunday 24 October 2004 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Saturday 23 October 2004 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Charlton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 23 October 2004 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Fulham",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 23 October 2004 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 23 October 2004 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "West Brom",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 23 October 2004 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 23 October 2004 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Everton",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Monday 18 October 2004 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Sunday 17 October 2004 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Saturday 16 October 2004 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 16 October 2004 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Saturday 16 October 2004 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "0",
-		"AwayScore": "4",
+		"HomeScore": 0,
+		"AwayScore": 4,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 16 October 2004 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 16 October 2004 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Southampton",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 16 October 2004 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "2",
-		"AwayScore": "4",
+		"HomeScore": 2,
+		"AwayScore": 4,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 16 October 2004 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Norwich",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 16 October 2004 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Monday 4 October 2004 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Fulham",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Sunday 3 October 2004 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Sunday 3 October 2004 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Sunday 3 October 2004 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 2 October 2004 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 2 October 2004 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Charlton",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Saturday 2 October 2004 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 2 October 2004 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 2 October 2004 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 2 October 2004 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Man City",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Monday 27 September 2004 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Sunday 26 September 2004 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Everton",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 25 September 2004 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 25 September 2004 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 25 September 2004 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Southampton",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 25 September 2004 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Norwich",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 25 September 2004 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 25 September 2004 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "West Brom",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 25 September 2004 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 25 September 2004 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Monday 20 September 2004 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 19 September 2004 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Sunday 19 September 2004 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Sunday 19 September 2004 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Saturday 18 September 2004 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Charlton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Saturday 18 September 2004 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 18 September 2004 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 18 September 2004 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 18 September 2004 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 18 September 2004 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Monday 13 September 2004 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Southampton",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Sunday 12 September 2004 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Norwich",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 11 September 2004 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 11 September 2004 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 11 September 2004 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 11 September 2004 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "3",
+		"HomeScore": 0,
+		"AwayScore": 3,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 11 September 2004 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "West Brom",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 11 September 2004 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Everton",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 11 September 2004 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 11 September 2004 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Monday 30 August 2004 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Everton",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Monday 30 August 2004 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Fulham",
-		"HomeScore": "4",
-		"AwayScore": "3",
+		"HomeScore": 4,
+		"AwayScore": 3,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Sunday 29 August 2004 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 28 August 2004 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "4",
-		"AwayScore": "2",
+		"HomeScore": 4,
+		"AwayScore": 2,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 28 August 2004 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 28 August 2004 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Southampton",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 28 August 2004 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "West Brom",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 28 August 2004 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Charlton",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 28 August 2004 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 28 August 2004 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "4",
+		"HomeScore": 1,
+		"AwayScore": 4,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 28 August 2004 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Wednesday 25 August 2004 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Wednesday 25 August 2004 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Wednesday 25 August 2004 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Wednesday 25 August 2004 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Norwich",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Wednesday 25 August 2004 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Wednesday 25 August 2004 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Tuesday 24 August 2004 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Tuesday 24 August 2004 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Sunday 22 August 2004 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Middlesbrough",
-		"HomeScore": "5",
-		"AwayScore": "3",
+		"HomeScore": 5,
+		"AwayScore": 3,
 		"Location": "Highbury"
 	},
 	{
 		"Date": "Sunday 22 August 2004 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 21 August 2004 ",
 		"HomeTeam": "Birmingham",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "St. Andrew's Stadium"
 	},
 	{
 		"Date": "Saturday 21 August 2004 ",
 		"HomeTeam": "Charlton",
 		"AwayTeam": "Portsmouth",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "The Valley"
 	},
 	{
 		"Date": "Saturday 21 August 2004 ",
 		"HomeTeam": "Crystal Palace",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Selhurst Park"
 	},
 	{
 		"Date": "Saturday 21 August 2004 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 21 August 2004 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Man City",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 21 August 2004 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Norwich",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 21 August 2004 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 21 August 2004 ",
 		"HomeTeam": "Southampton",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "St. Mary's Stadium"
 	},
 	{
 		"Date": "Sunday 15 August 2004 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Sunday 15 August 2004 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "4",
+		"HomeScore": 1,
+		"AwayScore": 4,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 14 August 2004 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Southampton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 14 August 2004 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 14 August 2004 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Charlton",
-		"HomeScore": "4",
-		"AwayScore": "1",
+		"HomeScore": 4,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 14 August 2004 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 14 August 2004 ",
 		"HomeTeam": "Middlesbrough",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Riverside Stadium"
 	},
 	{
 		"Date": "Saturday 14 August 2004 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Crystal Palace",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 14 August 2004 ",
 		"HomeTeam": "Portsmouth",
 		"AwayTeam": "Birmingham",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Fratton Park"
 	},
 	{
 		"Date": "Saturday 14 August 2004 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	}
 ]

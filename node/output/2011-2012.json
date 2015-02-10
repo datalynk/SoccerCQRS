@@ -3,3040 +3,3040 @@
 		"Date": "Sunday 13 May 2012 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Sunday 13 May 2012 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Sunday 13 May 2012 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "QPR",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Sunday 13 May 2012 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Sunday 13 May 2012 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Sunday 13 May 2012 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Sunday 13 May 2012 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Sunday 13 May 2012 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Fulham",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 13 May 2012 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Sunday 13 May 2012 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Wolves",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Tuesday 8 May 2012 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "4",
-		"AwayScore": "1",
+		"HomeScore": 4,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Monday 7 May 2012 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Wigan",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Sunday 6 May 2012 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Swansea",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 6 May 2012 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Sunday 6 May 2012 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "West Brom",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Sunday 6 May 2012 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Sunday 6 May 2012 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Stoke",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Sunday 6 May 2012 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Everton",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Sunday 6 May 2012 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Man City",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 5 May 2012 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Norwich",
-		"HomeScore": "3",
-		"AwayScore": "3",
+		"HomeScore": 3,
+		"AwayScore": 3,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Wednesday 2 May 2012 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "4",
+		"HomeScore": 1,
+		"AwayScore": 4,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Wednesday 2 May 2012 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Tuesday 1 May 2012 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Fulham",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Tuesday 1 May 2012 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Monday 30 April 2012 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Sunday 29 April 2012 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 29 April 2012 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "QPR",
-		"HomeScore": "6",
-		"AwayScore": "1",
+		"HomeScore": 6,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 28 April 2012 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "0",
-		"AwayScore": "3",
+		"HomeScore": 0,
+		"AwayScore": 3,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 28 April 2012 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Fulham",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 28 April 2012 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 28 April 2012 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 28 April 2012 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Wolves",
-		"HomeScore": "4",
-		"AwayScore": "4",
+		"HomeScore": 4,
+		"AwayScore": 4,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 28 April 2012 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 28 April 2012 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Tuesday 24 April 2012 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Sunday 22 April 2012 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "West Brom",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Sunday 22 April 2012 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Man City",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Sunday 22 April 2012 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Everton",
-		"HomeScore": "4",
-		"AwayScore": "4",
+		"HomeScore": 4,
+		"AwayScore": 4,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 21 April 2012 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 21 April 2012 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 21 April 2012 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Norwich",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 21 April 2012 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Swansea",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 21 April 2012 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Wigan",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 21 April 2012 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Stoke",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 21 April 2012 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Monday 16 April 2012 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Wigan",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Sunday 15 April 2012 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 14 April 2012 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Wolves",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 14 April 2012 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 14 April 2012 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "QPR",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 14 April 2012 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "6",
+		"HomeScore": 1,
+		"AwayScore": 6,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Wednesday 11 April 2012 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Swansea",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Wednesday 11 April 2012 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "West Brom",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Wednesday 11 April 2012 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Wednesday 11 April 2012 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "3",
+		"HomeScore": 0,
+		"AwayScore": 3,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Tuesday 10 April 2012 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Monday 9 April 2012 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Monday 9 April 2012 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Stoke",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Monday 9 April 2012 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Monday 9 April 2012 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Monday 9 April 2012 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 8 April 2012 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Sunday 8 April 2012 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "QPR",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 7 April 2012 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Wolves",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 7 April 2012 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Fulham",
-		"HomeScore": "0",
-		"AwayScore": "3",
+		"HomeScore": 0,
+		"AwayScore": 3,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 7 April 2012 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Wigan",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 7 April 2012 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 7 April 2012 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Everton",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 7 April 2012 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 7 April 2012 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Friday 6 April 2012 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Monday 2 April 2012 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Sunday 1 April 2012 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Swansea",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 1 April 2012 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 31 March 2012 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "2",
-		"AwayScore": "4",
+		"HomeScore": 2,
+		"AwayScore": 4,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 31 March 2012 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "West Brom",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 31 March 2012 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Norwich",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 31 March 2012 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "3",
-		"AwayScore": "3",
+		"HomeScore": 3,
+		"AwayScore": 3,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 31 March 2012 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 31 March 2012 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Stoke",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Saturday 31 March 2012 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Monday 26 March 2012 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 25 March 2012 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 24 March 2012 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 24 March 2012 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Saturday 24 March 2012 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 24 March 2012 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Wigan",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 24 March 2012 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Wolves",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 24 March 2012 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "QPR",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 24 March 2012 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Everton",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 24 March 2012 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Wednesday 21 March 2012 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Wednesday 21 March 2012 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Wednesday 21 March 2012 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Wednesday 21 March 2012 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Stoke",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Tuesday 20 March 2012 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Sunday 18 March 2012 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Sunday 18 March 2012 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "5",
+		"HomeScore": 0,
+		"AwayScore": 5,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Saturday 17 March 2012 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Swansea",
-		"HomeScore": "0",
-		"AwayScore": "3",
+		"HomeScore": 0,
+		"AwayScore": 3,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 17 March 2012 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Tuesday 13 March 2012 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Everton",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Monday 12 March 2012 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Sunday 11 March 2012 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Wigan",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Sunday 11 March 2012 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "West Brom",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 11 March 2012 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 10 March 2012 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 10 March 2012 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 10 March 2012 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Stoke",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 10 March 2012 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 10 March 2012 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Saturday 10 March 2012 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "QPR",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Sunday 4 March 2012 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 4 March 2012 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Wolves",
-		"HomeScore": "5",
-		"AwayScore": "0",
+		"HomeScore": 5,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Sunday 4 March 2012 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 3 March 2012 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 3 March 2012 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 3 March 2012 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 3 March 2012 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 3 March 2012 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 3 March 2012 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Swansea",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Saturday 3 March 2012 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Sunday 26 February 2012 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Swansea",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Sunday 26 February 2012 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Spurs",
-		"HomeScore": "5",
-		"AwayScore": "2",
+		"HomeScore": 5,
+		"AwayScore": 2,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Sunday 26 February 2012 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 25 February 2012 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 25 February 2012 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Bolton",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 25 February 2012 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Wolves",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 25 February 2012 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Fulham",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 25 February 2012 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 25 February 2012 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Sunday 12 February 2012 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Man City",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Sunday 12 February 2012 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "5",
+		"HomeScore": 1,
+		"AwayScore": 5,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Saturday 11 February 2012 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "5",
-		"AwayScore": "0",
+		"HomeScore": 5,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 11 February 2012 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "QPR",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 11 February 2012 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Wigan",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 11 February 2012 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 11 February 2012 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Stoke",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 11 February 2012 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 11 February 2012 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Norwich",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 11 February 2012 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Monday 6 February 2012 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Sunday 5 February 2012 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "3",
-		"AwayScore": "3",
+		"HomeScore": 3,
+		"AwayScore": 3,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Sunday 5 February 2012 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 4 February 2012 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Fulham",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 4 February 2012 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 4 February 2012 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Wolves",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 4 February 2012 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 4 February 2012 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Swansea",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 4 February 2012 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Saturday 4 February 2012 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "7",
-		"AwayScore": "1",
+		"HomeScore": 7,
+		"AwayScore": 1,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Wednesday 1 February 2012 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Wednesday 1 February 2012 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Wednesday 1 February 2012 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Wednesday 1 February 2012 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Norwich",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Wednesday 1 February 2012 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "QPR",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Tuesday 31 January 2012 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Tuesday 31 January 2012 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Stoke",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Tuesday 31 January 2012 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Tuesday 31 January 2012 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Wigan",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Tuesday 31 January 2012 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "0",
-		"AwayScore": "3",
+		"HomeScore": 0,
+		"AwayScore": 3,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Sunday 22 January 2012 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Sunday 22 January 2012 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Spurs",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 21 January 2012 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 21 January 2012 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 21 January 2012 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "5",
-		"AwayScore": "2",
+		"HomeScore": 5,
+		"AwayScore": 2,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 21 January 2012 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Wigan",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 21 January 2012 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 21 January 2012 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Swansea",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 21 January 2012 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Saturday 21 January 2012 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Monday 16 January 2012 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Man City",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Sunday 15 January 2012 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Sunday 15 January 2012 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "QPR",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 14 January 2012 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 14 January 2012 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Fulham",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 14 January 2012 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 14 January 2012 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Stoke",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 14 January 2012 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Bolton",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 14 January 2012 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Wolves",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 14 January 2012 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Wednesday 11 January 2012 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Everton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Wednesday 4 January 2012 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Wednesday 4 January 2012 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Tuesday 3 January 2012 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Tuesday 3 January 2012 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Tuesday 3 January 2012 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "1",
-		"AwayScore": "4",
+		"HomeScore": 1,
+		"AwayScore": 4,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Monday 2 January 2012 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Monday 2 January 2012 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Swansea",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Monday 2 January 2012 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Stoke",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Monday 2 January 2012 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Monday 2 January 2012 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Sunday 1 January 2012 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Sunday 1 January 2012 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Everton",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 31 December 2011 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "QPR",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Saturday 31 December 2011 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Wolves",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 31 December 2011 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 31 December 2011 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 31 December 2011 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Wigan",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 31 December 2011 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 31 December 2011 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Friday 30 December 2011 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Tuesday 27 December 2011 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Tuesday 27 December 2011 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "QPR",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Tuesday 27 December 2011 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Wolves",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Monday 26 December 2011 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Monday 26 December 2011 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Monday 26 December 2011 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Monday 26 December 2011 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Wigan",
-		"HomeScore": "5",
-		"AwayScore": "0",
+		"HomeScore": 5,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Monday 26 December 2011 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Monday 26 December 2011 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Man City",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Monday 26 December 2011 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Thursday 22 December 2011 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Wednesday 21 December 2011 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Swansea",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Wednesday 21 December 2011 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "5",
+		"HomeScore": 0,
+		"AwayScore": 5,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Wednesday 21 December 2011 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Wednesday 21 December 2011 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Wednesday 21 December 2011 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Wednesday 21 December 2011 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Stoke",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Wednesday 21 December 2011 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "West Brom",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Tuesday 20 December 2011 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Tuesday 20 December 2011 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Norwich",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Sunday 18 December 2011 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Sunday 18 December 2011 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 18 December 2011 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Sunday 18 December 2011 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 17 December 2011 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Saturday 17 December 2011 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 17 December 2011 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 17 December 2011 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 17 December 2011 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Swansea",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 17 December 2011 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Stoke",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Monday 12 December 2011 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Man City",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Sunday 11 December 2011 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Spurs",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Sunday 11 December 2011 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 10 December 2011 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Saturday 10 December 2011 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 10 December 2011 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "QPR",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 10 December 2011 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Wolves",
-		"HomeScore": "4",
-		"AwayScore": "1",
+		"HomeScore": 4,
+		"AwayScore": 1,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 10 December 2011 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "4",
-		"AwayScore": "2",
+		"HomeScore": 4,
+		"AwayScore": 2,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 10 December 2011 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Fulham",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 10 December 2011 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Wigan",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Monday 5 December 2011 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Sunday 4 December 2011 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Sunday 4 December 2011 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Stoke",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 3 December 2011 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 3 December 2011 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Swansea",
-		"HomeScore": "4",
-		"AwayScore": "2",
+		"HomeScore": 4,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 3 December 2011 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Norwich",
-		"HomeScore": "5",
-		"AwayScore": "1",
+		"HomeScore": 5,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 3 December 2011 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 3 December 2011 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Bolton",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 3 December 2011 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "4",
+		"HomeScore": 0,
+		"AwayScore": 4,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Saturday 3 December 2011 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "3",
+		"HomeScore": 0,
+		"AwayScore": 3,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Sunday 27 November 2011 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Sunday 27 November 2011 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 26 November 2011 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Fulham",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Saturday 26 November 2011 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Everton",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 26 November 2011 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Wolves",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 26 November 2011 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 26 November 2011 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "QPR",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 26 November 2011 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Wigan",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 26 November 2011 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 26 November 2011 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Monday 21 November 2011 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 20 November 2011 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 19 November 2011 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 19 November 2011 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Wolves",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 19 November 2011 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 19 November 2011 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "QPR",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 19 November 2011 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Fulham",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 19 November 2011 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Bolton",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 19 November 2011 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "3",
-		"AwayScore": "3",
+		"HomeScore": 3,
+		"AwayScore": 3,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Saturday 19 November 2011 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Sunday 6 November 2011 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Sunday 6 November 2011 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Stoke",
-		"HomeScore": "5",
-		"AwayScore": "0",
+		"HomeScore": 5,
+		"AwayScore": 0,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Sunday 6 November 2011 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Wigan",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Saturday 5 November 2011 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Man City",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 5 November 2011 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "West Brom",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Saturday 5 November 2011 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Norwich",
-		"HomeScore": "3",
-		"AwayScore": "2",
+		"HomeScore": 3,
+		"AwayScore": 2,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 5 November 2011 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 5 November 2011 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Swansea",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 5 November 2011 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 5 November 2011 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Everton",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Monday 31 October 2011 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Sunday 30 October 2011 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "QPR",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 29 October 2011 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 29 October 2011 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Wolves",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 29 October 2011 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "3",
-		"AwayScore": "3",
+		"HomeScore": 3,
+		"AwayScore": 3,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 29 October 2011 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 29 October 2011 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Bolton",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 29 October 2011 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Fulham",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Saturday 29 October 2011 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "3",
-		"AwayScore": "5",
+		"HomeScore": 3,
+		"AwayScore": 5,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 29 October 2011 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Sunday 23 October 2011 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Sunday 23 October 2011 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Sunday 23 October 2011 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Stoke",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Sunday 23 October 2011 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Everton",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Sunday 23 October 2011 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "6",
+		"HomeScore": 1,
+		"AwayScore": 6,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 22 October 2011 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 22 October 2011 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "West Brom",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 22 October 2011 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 22 October 2011 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Wigan",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 22 October 2011 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Swansea",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Sunday 16 October 2011 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Spurs",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Sunday 16 October 2011 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Sunday 16 October 2011 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Wolves",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 15 October 2011 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Everton",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 15 October 2011 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "4",
-		"AwayScore": "1",
+		"HomeScore": 4,
+		"AwayScore": 1,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 15 October 2011 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Swansea",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 15 October 2011 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 15 October 2011 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Fulham",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 15 October 2011 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Bolton",
-		"HomeScore": "1",
-		"AwayScore": "3",
+		"HomeScore": 1,
+		"AwayScore": 3,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Saturday 15 October 2011 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Sunday 2 October 2011 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 2 October 2011 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "QPR",
-		"HomeScore": "6",
-		"AwayScore": "0",
+		"HomeScore": 6,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Sunday 2 October 2011 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Stoke",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Sunday 2 October 2011 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "5",
+		"HomeScore": 1,
+		"AwayScore": 5,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 1 October 2011 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Wigan",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 1 October 2011 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Man City",
-		"HomeScore": "0",
-		"AwayScore": "4",
+		"HomeScore": 0,
+		"AwayScore": 4,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 1 October 2011 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Norwich",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Saturday 1 October 2011 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "West Brom",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 1 October 2011 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Saturday 1 October 2011 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Monday 26 September 2011 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Sunday 25 September 2011 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 24 September 2011 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 24 September 2011 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Bolton",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Saturday 24 September 2011 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Swansea",
-		"HomeScore": "4",
-		"AwayScore": "1",
+		"HomeScore": 4,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 24 September 2011 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Wolves",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 24 September 2011 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 24 September 2011 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Fulham",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Saturday 24 September 2011 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Spurs",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Saturday 24 September 2011 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Everton",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Sunday 18 September 2011 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 18 September 2011 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Man City",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Sunday 18 September 2011 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Stoke",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Sunday 18 September 2011 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Saturday 17 September 2011 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 17 September 2011 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 17 September 2011 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Wigan",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 17 September 2011 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "West Brom",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 17 September 2011 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "QPR",
-		"HomeScore": "0",
-		"AwayScore": "3",
+		"HomeScore": 0,
+		"AwayScore": 3,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Saturday 17 September 2011 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "4",
-		"AwayScore": "3",
+		"HomeScore": 4,
+		"AwayScore": 3,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Monday 12 September 2011 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Sunday 11 September 2011 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Sunday 11 September 2011 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "West Brom",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 10 September 2011 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "0",
-		"AwayScore": "5",
+		"HomeScore": 0,
+		"AwayScore": 5,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Saturday 10 September 2011 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Swansea",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Saturday 10 September 2011 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "2",
-		"AwayScore": "2",
+		"HomeScore": 2,
+		"AwayScore": 2,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 10 September 2011 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Wigan",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Saturday 10 September 2011 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "1",
-		"AwayScore": "0",
+		"HomeScore": 1,
+		"AwayScore": 0,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 10 September 2011 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Saturday 10 September 2011 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Spurs",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Sunday 28 August 2011 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "8",
-		"AwayScore": "2",
+		"HomeScore": 8,
+		"AwayScore": 2,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 28 August 2011 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Stoke",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Sunday 28 August 2011 ",
 		"HomeTeam": "Spurs",
 		"AwayTeam": "Man City",
-		"HomeScore": "1",
-		"AwayScore": "5",
+		"HomeScore": 1,
+		"AwayScore": 5,
 		"Location": "White Hart Lane"
 	},
 	{
 		"Date": "Sunday 28 August 2011 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Fulham",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 27 August 2011 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Bolton",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 27 August 2011 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Everton",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 27 August 2011 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "Norwich",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 27 August 2011 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 27 August 2011 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "QPR",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "DW Stadium"
 	},
 	{
 		"Date": "Saturday 27 August 2011 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Wolves",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Monday 22 August 2011 ",
 		"HomeTeam": "Man Utd",
 		"AwayTeam": "Spurs",
-		"HomeScore": "3",
-		"AwayScore": "0",
+		"HomeScore": 3,
+		"AwayScore": 0,
 		"Location": "Old Trafford"
 	},
 	{
 		"Date": "Sunday 21 August 2011 ",
 		"HomeTeam": "Bolton",
 		"AwayTeam": "Man City",
-		"HomeScore": "2",
-		"AwayScore": "3",
+		"HomeScore": 2,
+		"AwayScore": 3,
 		"Location": "Reebok Stadium"
 	},
 	{
 		"Date": "Sunday 21 August 2011 ",
 		"HomeTeam": "Wolves",
 		"AwayTeam": "Fulham",
-		"HomeScore": "2",
-		"AwayScore": "0",
+		"HomeScore": 2,
+		"AwayScore": 0,
 		"Location": "Molineux Stadium"
 	},
 	{
 		"Date": "Sunday 21 August 2011 ",
 		"HomeTeam": "Norwich",
 		"AwayTeam": "Stoke",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Carrow Road"
 	},
 	{
 		"Date": "Saturday 20 August 2011 ",
 		"HomeTeam": "Chelsea",
 		"AwayTeam": "West Brom",
-		"HomeScore": "2",
-		"AwayScore": "1",
+		"HomeScore": 2,
+		"AwayScore": 1,
 		"Location": "Stamford Bridge"
 	},
 	{
 		"Date": "Saturday 20 August 2011 ",
 		"HomeTeam": "Aston Villa",
 		"AwayTeam": "Blackburn",
-		"HomeScore": "3",
-		"AwayScore": "1",
+		"HomeScore": 3,
+		"AwayScore": 1,
 		"Location": "Villa Park"
 	},
 	{
 		"Date": "Saturday 20 August 2011 ",
 		"HomeTeam": "Everton",
 		"AwayTeam": "QPR",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Goodison Park"
 	},
 	{
 		"Date": "Saturday 20 August 2011 ",
 		"HomeTeam": "Swansea",
 		"AwayTeam": "Wigan",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Liberty Stadium"
 	},
 	{
 		"Date": "Saturday 20 August 2011 ",
 		"HomeTeam": "Arsenal",
 		"AwayTeam": "Liverpool",
-		"HomeScore": "0",
-		"AwayScore": "2",
+		"HomeScore": 0,
+		"AwayScore": 2,
 		"Location": "Emirates Stadium"
 	},
 	{
 		"Date": "Saturday 20 August 2011 ",
 		"HomeTeam": "Sunderland",
 		"AwayTeam": "Newcastle",
-		"HomeScore": "0",
-		"AwayScore": "1",
+		"HomeScore": 0,
+		"AwayScore": 1,
 		"Location": "Stadium of Light"
 	},
 	{
 		"Date": "Monday 15 August 2011 ",
 		"HomeTeam": "Man City",
 		"AwayTeam": "Swansea",
-		"HomeScore": "4",
-		"AwayScore": "0",
+		"HomeScore": 4,
+		"AwayScore": 0,
 		"Location": "Etihad Stadium"
 	},
 	{
 		"Date": "Sunday 14 August 2011 ",
 		"HomeTeam": "West Brom",
 		"AwayTeam": "Man Utd",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "The Hawthorns"
 	},
 	{
 		"Date": "Sunday 14 August 2011 ",
 		"HomeTeam": "Stoke",
 		"AwayTeam": "Chelsea",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Britannia Stadium"
 	},
 	{
 		"Date": "Saturday 13 August 2011 ",
 		"HomeTeam": "Newcastle",
 		"AwayTeam": "Arsenal",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "St. James' Park"
 	},
 	{
 		"Date": "Saturday 13 August 2011 ",
 		"HomeTeam": "Blackburn",
 		"AwayTeam": "Wolves",
-		"HomeScore": "1",
-		"AwayScore": "2",
+		"HomeScore": 1,
+		"AwayScore": 2,
 		"Location": "Ewood Park"
 	},
 	{
 		"Date": "Saturday 13 August 2011 ",
 		"HomeTeam": "Fulham",
 		"AwayTeam": "Aston Villa",
-		"HomeScore": "0",
-		"AwayScore": "0",
+		"HomeScore": 0,
+		"AwayScore": 0,
 		"Location": "Craven Cottage"
 	},
 	{
 		"Date": "Saturday 13 August 2011 ",
 		"HomeTeam": "Liverpool",
 		"AwayTeam": "Sunderland",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "Anfield"
 	},
 	{
 		"Date": "Saturday 13 August 2011 ",
 		"HomeTeam": "QPR",
 		"AwayTeam": "Bolton",
-		"HomeScore": "0",
-		"AwayScore": "4",
+		"HomeScore": 0,
+		"AwayScore": 4,
 		"Location": "Loftus Road Stadium"
 	},
 	{
 		"Date": "Saturday 13 August 2011 ",
 		"HomeTeam": "Wigan",
 		"AwayTeam": "Norwich",
-		"HomeScore": "1",
-		"AwayScore": "1",
+		"HomeScore": 1,
+		"AwayScore": 1,
 		"Location": "DW Stadium"
 	}
 ]
