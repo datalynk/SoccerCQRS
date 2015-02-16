@@ -53,8 +53,8 @@ function doIt(year) {
     });
 }
 
-for (var i = 2006; i < 2014; i++) {
-    doIt(i);
-}
+//for (var i = 2006; i < 2014; i++) {
+//    doIt(i);
+//}
 
-//doIt(1992);
+doIt(2007);

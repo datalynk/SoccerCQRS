@@ -1,4 +1,5 @@
-﻿Year: <select ng-model="year" ng-change="changeYear()" ng-options="year for year in years"></select>
+﻿End of season: <select ng-model="year" ng-change="changeYear()" ng-options="year for year in years"></select>
+Date: <input ng-model="date" ng-change="calculateTable()" type="date" min="{{minDate}}" max ="{{maxDate}}"/>
 
 <table>
     <tr>

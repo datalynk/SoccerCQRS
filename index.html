@@ -3,20 +3,22 @@
 <head>
     <title>App</title>
 
+    <link href="site.css" rel="stylesheet" />
     <!--<link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />-->
     <script src="bower_components/angular/angular.js"></script>
     <script src="bower_components/angular-route/angular-route.min.js"></script>
     <script src="bower_components/angular-filter/dist/angular-filter.js"></script>
     <script src="components/ng-order-object-by.js"></script>
+    <script src="bower_components/moment/moment.js"></script>
     <script src="index.js"></script>
 </head>
-<body ng-app="soccerApp" ng-controller="NavigationController">
+<body ng-app="soccerApp" ng-controller="NavigationController" class="body-noise">
 
     <div ng-repeat="route in routes">
         <a ng-href="#{{route.route}}" ng-bind="route.name"></a>
     </div>
 
-    <div ng-view></div>
-
+    <div ng-view class="main"></div>
+    <div class="circle"></div>
 </body>
 </html>

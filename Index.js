@@ -59,36 +59,52 @@
                 $scope.games = result.data;
                 return result;
             }
+
+            function setDates(result) {
+                $scope.date = new Date($scope.games[0].Date);
+                setMoment();
+                $scope.minDate = moment($scope.games[$scope.games.length - 1].Date).format("YYYY-MM-DD");
+                $scope.maxDate = moment($scope.games[0].Date).format("YYYY-MM-DD");
+                return result;
+            }
+
+            var dateMoment = moment();
+            function setMoment() {
+                dateMoment = moment($scope.date);
+            }
+            $scope.$watch('date', setMoment);
+
             $scope.changeYear = function () {
-                eventService.GetGamesForYear($scope.year).then(setGames).then(calculateTable);
+                eventService.GetGamesForYear($scope.year)
+                    .then(setGames)
+                    .then(setDates)
+                    .then(calculateTable);
             }
             $scope.changeYear();
+
+            function Team(name) {
+                return {
+                    Points: 0,
+                    Name: name,
+                    Scored: 0,
+                    Conceded: 0,
+                    Wins: 0,
+                    Draws: 0,
+                    Losses: 0
+                }
+            }
 
             function calculateTable() {
                 $scope.teams = {};
                 angular.forEach($scope.games, function (game) {
+                    if (dateMoment.isBefore(game.Date)) return;
+
                     var homeTeam = $scope.teams[game.HomeTeam] ?
                         $scope.teams[game.HomeTeam] :
-                        {
-                            Points: 0,
-                            Name: game.HomeTeam,
-                            Scored: 0,
-                            Conceded: 0,
-                            Wins: 0,
-                            Draws: 0,
-                            Losses: 0
-                        };
+                        new Team(game.HomeTeam);
                     var awayTeam = $scope.teams[game.AwayTeam] ?
                         $scope.teams[game.AwayTeam] :
-                        {
-                            Points: 0,
-                            Name: game.AwayTeam,
-                            Scored: 0,
-                            Conceded: 0,
-                            Wins: 0,
-                            Draws: 0,
-                            Losses: 0
-                        };
+                        new Team(game.AwayTeam);
 
                     homeTeam.Scored += game.HomeScore;
                     awayTeam.Scored += game.AwayScore;
@@ -113,6 +129,9 @@
                     $scope.teams[game.HomeTeam] = homeTeam;
                     $scope.teams[game.AwayTeam] = awayTeam;
                 });
+                $scope.calculateTable = function() {
+                    calculateTable();
+                };
             }
         }
     ])
