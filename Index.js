@@ -1,4 +1,4 @@
-﻿angular.module('soccerApp', ['angular.filter', 'ngRoute', 'ngOrderObjectBy'])
+﻿angular.module('soccerApp', ['angular.filter', 'ngRoute', 'ngOrderObjectBy', 'ngMaterial'])
     .config(function($routeProvider) {
         $routeProvider
             .when('/', {
@@ -72,7 +72,6 @@
             function setMoment() {
                 dateMoment = moment($scope.date);
             }
-            $scope.$watch('date', setMoment);
 
             $scope.changeYear = function () {
                 eventService.GetGamesForYear($scope.year)
@@ -95,9 +94,10 @@
             }
 
             function calculateTable() {
+                setMoment();
                 $scope.teams = {};
                 angular.forEach($scope.games, function (game) {
-                    if (dateMoment.isBefore(game.Date)) return;
+                    if (dateMoment.isBefore(new Date(game.Date))) return;
 
                     var homeTeam = $scope.teams[game.HomeTeam] ?
                         $scope.teams[game.HomeTeam] :

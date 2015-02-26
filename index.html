@@ -1,21 +1,27 @@
 ﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" class="body-noise">
 <head>
     <title>App</title>
 
+    <link href="bower_components/angular-material/angular-material.css" rel="stylesheet" />
     <link href="site.css" rel="stylesheet" />
     <!--<link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />-->
     <script src="bower_components/angular/angular.js"></script>
     <script src="bower_components/angular-route/angular-route.min.js"></script>
     <script src="bower_components/angular-filter/dist/angular-filter.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+    <script src="bower_components/angular-aria/angular-aria.js"></script>
+    <script src="bower_components/angular-material/angular-material.js"></script>
     <script src="components/ng-order-object-by.js"></script>
     <script src="bower_components/moment/moment.js"></script>
     <script src="index.js"></script>
 </head>
-<body ng-app="soccerApp" ng-controller="NavigationController" class="body-noise">
+<body ng-app="soccerApp" ng-controller="NavigationController">
 
-    <div ng-repeat="route in routes">
-        <a ng-href="#{{route.route}}" ng-bind="route.name"></a>
+    <div class="menu">
+        <div ng-repeat="route in routes">
+            <a ng-href="#{{route.route}}" ng-bind="route.name"></a>
+        </div>
     </div>
 
     <div ng-view class="main"></div>

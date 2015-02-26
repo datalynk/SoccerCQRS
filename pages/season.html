@@ -1,5 +1,11 @@
-﻿End of season: <select ng-model="year" ng-change="changeYear()" ng-options="year for year in years"></select>
-Date: <input ng-model="date" ng-change="calculateTable()" type="date" min="{{minDate}}" max ="{{maxDate}}"/>
+﻿
+<md-select ng-model="year" placeholder="End of season">
+    <md-option ng-value="opt" ng-repeat="opt in years">{{ opt }}</md-option>
+</md-select>
+<md-input-container>
+    <label>Date</label>
+    <input type="date" ng-model="date" ng-change="calculateTable()" min="{{minDate}}" max="{{maxDate}}">
+</md-input-container>
 
 <table>
     <tr>
